@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "宿營介紹"
-date:   2021-09-02 08:00:00
-permalink: "/camp-intro"
-isAvailable: false
+title: "宿營介紹"
+author: "WHOSE PARTY籌備團隊"
+date: 2021-09-02 08:00:00
+link: https://www.facebook.com/2021臺大物治x護理x資管聯合迎新宿營-102707671523379/
+permalink: "/camp-intro.html"
+isAvailable: true
 isStaticPost: false
 image: road.jfif
 ---
