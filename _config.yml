@@ -1,5 +1,5 @@
 # Plugins
-gems:
+plugins:
 - jekyll-sitemap
 safe: false
 
@@ -10,109 +10,116 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "2021 WHOSE Party"
-email: "devfest@gdg.org.ua"
-description: "09/18 ~ 09/20 | Join us!"
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+title: "2021 WHOSE PARTY - 資管 X 物治 X 護理 三系聯合宿營"
+email: "ptimnur2021@gmail.com"
+description: "Oct. 23 ~ Oct. 24 | Join us!"
+baseurl: "https://ntu.im/whoseparty"
+url: ""
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
-googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "GDG Lviv"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerName: "2021 WHOSE PARTY"
+organizerAlternateName: "2021WHOSE PARTY Camp"
+organizerDescription: "2021 WHOSE PARTY - 台大 資管 X 物治 X 護理 三系聯合宿營籌備團隊"
+organizerEmail: "ptimnur2021@gmail.com"
+organizerLogo: "/img/favicons/favicon-2.png"
+organizerLink: "https://ntu.im/whoseparty"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
-twitterAccount: "@DevFest"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
+metaKeywords: "whose party, 2021 whose party, event, 臺大, 宿營, 台大, 臺大護理 x 臺大資管 x 臺大物治聯合宿營, NTU, IM, PT, NUR, 國立台灣大學, 國立臺灣大學, 資管, 護理, 物治, 聯合宿營, 迎新宿營, 迎新, 資訊管理學系迎新, 資訊管理學系宿營, 護理學系宿營, 護理學系迎新, 物理治療學系宿營, 物理治療學系迎新"
+twitterAccount: ""
+socialImageSrcGooglePlus: "/img/people/webicon.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+# c4pUrl: "https://bit.ly/dfua-c4p"
+# c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "主頁"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/", text: "首頁"}
+ - {permalink: "/news/", text: "最新消息"}
+ - {permalink: "/schedule/", text: "活動時程"}
+ - {permalink: "/crew/", text: "團隊介紹"}
+ - {permalink: "/team/", text: "小隊資訊"}
+ - {permalink: "/download/", text: "下載區"}
+ - {permalink: "/faq/", text: "FAQ"}
 # bottomNavigationLinks:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 # rightNavigationButtons:
 #  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
-heroImage: "hero.jpg"
+heroImage: "crimson1.jpg"
 heroTitle: "WHOSE PARTY"
 heroTitle2: "2021 三系聯合迎新宿營"
-eventDate: "September 18th - September 20th"
-typeoutTextValues: '"", "資訊管理學系x", "資訊管理學系x物理治療學系x", "資訊管理學系x物理治療學系x護理學系"'
-typeoutFallback: "NTU"
+eventDate: "Oct. 23 ~ Oct. 24"
+typeoutTextValues: '"", "資訊管理學系x", "資訊管理學系x物理治療學系x", "資訊管理學系x物理治療學系x護理學系", "護理學系x", "護理學系x物理治療學系x", "護理學系x物理治療學系x資訊管理學系", "物理治療學系x", "物理治療學系x護理學系x", "物理治療學系x護理學系x資訊管理學系", "資訊管理學系x", "資訊管理學系x護理學系","資訊管理學系x護理學系x物理治療學系", "護理學系x", "護理學系x資訊管理學系x", "護理學系x資訊管理學系x物理治療學系", "物理治療學系x", "物理治療學系x資訊管理學系x", "物理治療學系x資訊管理學系x護理學系"'
+typeoutFallback: "資訊管理學系x物理治療學系x護理學系"
 heroButtons:
- - {link: "https://www.youtube.com/watch?v=072tU1tamd0", text: "了解我們"}
- - {permalink: "//#subscribes/", text: "現在報名"}
+#  - {permalink: "/news/", text: "了解我們"}
+#  - {permalink: "", text: "現在報名"}
 
 # About Block
 aboutTitle: "參與科系"
+aboutImage: "night.png"
 aboutBlock:
- - {title: "資訊管理學系", image: "conference.jpg", text: "" }
- - {title: "物理治療學系", image: "workshop.jpg", text: "" }
- - {title: "護理學系", image: "hackathon.jpg", text: "" }
+ - {title: "物理治療學系", image: "ntu_pt.jpg", text: "" }
+ - {title: "資訊管理學系", image: "ntu_im.png", text: "" }
+ - {title: "護理學系", image: "ntu_nur.jpg", text: "" }
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
+statisticBlockImage: "statistic1.jpg"
 statisticBlock:
- - {count: "3", specialCharacter: "", info: "參與科系", detail: "資管、物治、護理!"}
- - {count: "100", specialCharacter: "+", info: "工人", detail: "來自各系!"}
- - {count: "500", specialCharacter: "+", info: "準備時間", detail: "有夠用心!"}
- - {count: "10", specialCharacter: "+", info: "精彩活動", detail: "讓小大一們玩得開心!"}
+ - {count: "3", specialCharacter: "", info: "參與科系", detail: ""}
+ - {count: "100", specialCharacter: "+", info: "工人", detail: ""}
+ - {count: "500", specialCharacter: "+", info: "準備時間", detail: ""}
+ - {count: "10", specialCharacter: "+", info: "精彩活動", detail: ""}
 
 # Latest News Block
-latestNewsTitle: ""
+# latestNewsTitle: ""
+
+# Story Block
+storyTitle: "故事概要"
+storyButtonText: "點我看八大家族介紹"
+storyButtonText_2: "點我看完整莊園故事"
+storyImage: "city.jpg"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 3
+rockstarSpeakersImage: "rockstar-speakers1.jpg"
+rockstarSpeakersCount: 6
 rockstarSpeakersTitle: "認識召部"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersButtonText: "點我看團隊介紹"
 
 # Location Block
-locationBlockTitle: "舉辦地點"
-eventLocationName: "埔心牧場"
-eventLocationLink: "https://www.pushin-ranch.com/"
-eventStreetAddress: "桃園市楊梅區幼獅路一段439號"
-eventAddressLocality: ""
-eventAddressLocalityRegion: ""
-eventPostalCode: ""
-eventAddressCountry: ""
-eventStartTime: ""
-eventDoorTime: ""
-eventEndTime: ""
-eventPlaceCoordinates: ""
-mapCenterCoordinates: ""
-mapMobileCenterCoordinates: ""
+# locationBlockTitle: "舉辦地點"
+# eventLocationName: "埔心牧場"
+# eventLocationLink: "https://www.pushin-ranch.com/"
+# eventStreetAddress: "桃園市楊梅區幼獅路一段439號"
+# eventAddressLocality: ""
+# eventAddressLocalityRegion: ""
+# eventPostalCode: ""
+# eventAddressCountry: ""
+# eventStartTime: ""
+# eventDoorTime: ""
+# eventEndTime: ""
+# eventPlaceCoordinates: ""
+# mapCenterCoordinates: ""
+# mapMobileCenterCoordinates: ""
 
 # Venue Block
-# venueBlockTitle: "Venue"
-# venueBigImage: "venue_0.jpg"
-# venueSmallImage1: "venue_1.jpg"
-# venueSmallImage2: "venue_2.jpg"
-# venueSmallImage3: "venue_3.jpg"
-# venueTitle: "Kinopalace Cinema"
-# venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueImage: "deer.jpg"
+venueBlockTitle: "活動地點"
+venueBigImage: "pushin_1_1.jpg"
+venueSmallImage1: "pushin_2.jpg"
+venueSmallImage2: "pushin_4_1.jpg"
+venueSmallImage3: "pushin_5.jpg"
+venueTitle: "埔心牧場"
+venueFeatures: ["桃園市楊梅區幼獅路一段439號","03 464 4132"]
 
 # Tweets Feed Block
 # tweetsFeedImage: "twitter-feed.jpg"
@@ -121,78 +128,126 @@ mapMobileCenterCoordinates: ""
 # twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-# organizersTitle: ""
-# partnersTitle: ""
-# partnersC4sponsorsButton: ""
+partnersImage: "neon.webp"
+organizersTitle: "主辦單位"
+partnersTitle: ""
+partnersC4sponsorsButton: ""
 
+# Sponsors Block
+sponsorTitle: "合作夥伴"
+sponsorImage: "night.png"
+sponsorButtonText: "點我看完整贊助名單"
+sponsorBlock:
+
+ - {title: "雪坊優格", image: "logo1.png", url: "sponsor_intro_1.html" }
+ - {title: "BAR BEER", image: "logo2.png", url: "sponsor_intro_2.html" }
+ - {title: "ONEWAY CAFE", image: "logo3.jpg", url: "sponsor_intro_3.html" }
+ - {title: "京阪豚骨拉麵", image: "logo4.jpg", url: "sponsor_intro_4.html" }
+ - {title: "轉轉義大利麵", image: "logo5.jpg", url: "sponsor_intro_5.html" }
+sponsorBlock_minor:
+ - {title: "雪坊優格", image: "logo1.png", url: "sponsor_intro_1.html" }
+ - {title: "BAR BEER", image: "logo2.png", url: "sponsor_intro_2.html" }
+ - {title: "oneway cafe", image: "logo3.jpg", url: "sponsor_intro_3.html" }
+ - {title: "京阪豚骨拉麵", image: "logo4.jpg", url: "sponsor_intro_4.html" }
+ - {title: "轉轉義大利麵", image: "logo5.jpg", url: "sponsor_intro_5.html" }
+ - {title: "七里亭", image: "logo6.jpg", url: "" }
+ - {title: "人性空間", image: "logo7.jpg", url: "" }
+ - {title: "小飯廳", image: "logo8.jpg", url: "" }
+ - {title: "左巴好室", image: "logo10.jpg", url: "" }
+ - {title: "台一牛奶大王", image: "logo9.jpg", url: "" }
+ - {title: "溏老鴨小火鍋", image: "logo17.jpg", url: "" }
+ - {title: "金湯匙豆花", image: "logo14.jpg", url: "" }
+ - {title: "香料廚房", image: "logo15.jpg", url: "" }
+ - {title: "Lazy thai", image: "logo21.jpg", url: "" }
+ - {title: "yu poke", image: "logo22.png", url: "" }
+ - {title: "蘇草", image: "logo19.jpg", url: "" }
+ - {title: "好想吃冰", image: "logo11.jpg", url: "" }
+ - {title: "安好食", image: "logo12.jpg", url: "" }
+ - {title: "搗飛豆花", image: "logo16.jpg", url: "" }
+ - {title: "希臘左巴", image: "logo13.jpg", url: "" }
+ - {title: "韓庭州", image: "logo18.jpg", url: "" }
+ - {title: "barkers美式餐廳", image: "logo20.jpg", url: "" }
 # Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "在此報名"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: ""
+# subscribeImage: "subscribe.jpg"
+# subscribeTitle: "在此報名"
+# subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+# subscribeInfo: ""
 
 # Tickets Block
-# ticketsTitle: ""
-# ticketsInfo: ""
-# ticketsOffers:
+ticketsImage: "green.jpg"
+ticketsTitle: " 在此報名"
+ticketsInfo: ""
+ticketReminderList: ["報名資格：全體台大物治、資管及護理系大一新生","活動日期：10/23～24","活動地點：埔心牧場", "匯款資訊<br>帳戶：007005725407<br>戶名：林郁傑<br>銀行：005-土地銀行", "請注意報名期限及繳費期限，逾時不候！","宿營防疫規劃及其他資訊可參考FAQ說明，也歡迎直接聯絡我們喔！", "<br>"]
+ticketsOffers:
+ -
+  name: "報名連結"
+  price: "2,900"
+  priceCurrency: "NT$  "
+  #ticketsNumber: "300"
+  #buyButtonLink: "{{site.baseurl}}/applicationform"
+  buyButtonText: "點我報名"
+  ticketContentList: ["報名期限至 9/29 23:59 止", "繳費期限至 9/30 23:59 止"]
+  validFrom: "2021-09-01T09:00"
+  validThrough: "2021-09-29T23:59"
+  soldOut: false
+  disabled: false
+  soldOutText: "--報名已截止--"
+
 #  -
-  # name: "Early Bird"
-  # price: "350"
-  # priceCurrency: "UAH"
-  # ticketsNumber: "150"
-  # ribbon: "-5%"
-  # buyButtonLink: "http://dfua.ticketforevent.com/"
-  # buyButtonText: "Buy Now"
-  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  # validFrom: "2014-08-25T10:00"
-  # validThrough: "2014-09-30T23:59"
-#  -
-  # name: "Last Chance"
-  # price: "450"
-  # priceCurrency: "UAH"
-  # ticketsNumber: "100"
-  # ribbon: "-20%"
-  # featured: true
-  # buyButtonLink: "http://dfua.ticketforevent.com/"
-  # buyButtonText: "Buy Now"
-  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  # validFrom: "2014-10-01T00:00"
-  # validThrough: "2014-10-23T23:59"
-  # disabled: true
-#  -
-  # name: "Student"
-  # price: "200"
-  # priceCurrency: "UAH"
-  # ticketsNumber: "50"
-  # buyButtonLink: "http://dfua.ticketforevent.com/"
-  # buyButtonText: "Buy Now"
-  # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-  # ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  # validFrom: "2014-08-20T10:00"
-  # validThrough: "2014-10-23T23:59"
-  # soldOut: true
-  # soldOutText: "Sold Out"
+#   name: "台大集合"
+#   price: "$$$"
+#   priceCurrency: "NT$  "
+#   ticketsNumber: "150"
+#   ribbon: "台大集合"
+#   buyButtonLink: "http://dfua.ticketforevent.com/"
+#   buyButtonText: "點我報名"
+#   # additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+#   ticketContentList: ["台大搭乘遊覽車出發！", "期限至 止"]
+#   validFrom: "2021-09-02T09:00"
+#   validThrough: "2021-09-30T23:59"
+#   soldOut: true
+#   disabled: true
+#   soldOutText: "--報名已截止--"
 
 # Footer
-# socialLinks:
-#  - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
-#  - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
-#  - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
-#  - {permalink: "/feed.xml", icon: "rss"}
-# footerBlocks:
-#  -
-#   title: "Links"
-#   links:
-#    - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-#    - {link: "https://developers.google.com", text: "Google Developers"}
-#  -
-#   title: "Contacts"
-#   links:
-#    - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
-#  -
-#   title: "FAQ"
-#   links:
-#    - {permalink: "/cod/", text: "Code of Conduct"}
+socialLinks:
+  # - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
+  # - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
+  - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+  - {permalink: "/feed.xml", icon: "rss"}
+
+footerBlocks:
+  - title: "宿營夥伴"
+    links:
+      - {permalink: "/sponsorsList", text: "完整贊助名單"}
+      - {permalink: "/assets/proposal.pdf", text: "合作辦法說明"}
+      - {link: "https://www.mc.ntu.edu.tw/nursing/Index.action", text: "台大護理學系"}
+      - {link: "https://www.mc.ntu.edu.tw/ntupt/Index.action", text: "台大物理治療學系"}
+      - {link: "https://management.ntu.edu.tw/IM", text: "台大資訊管理學系"}
+      - {link: "https://www.pushin-ranch.com/", text: "埔心牧場"}
+      # - {link: "http://gdg.org.ua", text: "點我進入贊助頁面"}
+
+  - title: "常用連結"
+    links:
+      - {link: "https://ceiba.ntu.edu.tw/student/index.php", text: "NTU CEIBA"}
+      - {link: "https://cool.ntu.edu.tw/", text: "NTU COOL"}
+      - {link: "https://if192.aca.ntu.edu.tw/index.php", text: "臺大選課系統" }
+      - {link: "https://nol.ntu.edu.tw/nol/guest/index.php", text: "臺大課程網"}
+      - {link: "https://www.cc.ntu.edu.tw/chinese/index.asp", text: "臺大計算機及資訊網路中心"}
+      - {link: "https://pdogs.ntu.im/judge/", text: "PDOGS"}
+      - {link: "https://www.facebook.com/groups/ntucmnursing/?ref=share", text: "台大護理系交流版"}
+
+  - title: "聯絡資訊"
+    links:
+      - {link: "tel:+886939818275", text: "物理治療學系窗口：傅彥齊"}
+      - {link: "tel:+886987953881", text: "資訊管理學系窗口：吳宇璇"}
+      - {link: "tel:+886966570258", text: "護理學系窗口：陳怡靜"}
+      - {link: "mailto:ptimnur2021@gmail.com", text: "2021 WHOSE PARTY 臺大護理物治資管聯合迎新宿營 官方信箱"}
+
+
+  # - title: "重點專區"
+    # links:
+      # - {permalink: "/cod/", text: "Code of Conduct"}
 
 # Blog
 # blogTitle: "Latest news"
@@ -200,7 +255,7 @@ subscribeInfo: ""
 # discusShortName: "devfestua"
 
 # Speakers List Block
-# showSessions: true
+showSessions: true
 
 # Team Block
 # teamBlockTitle: "About us"
