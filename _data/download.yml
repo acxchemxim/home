@@ -4,9 +4,9 @@
   surname: "營手冊"
   title: ""
   thumbnailUrl: crystal.png
-  available: false
+  available: true
   button:
-  - {link: "../assets/demo.pdf", text: "2021WHOSEPARTY營手冊.pdf"}
+  - {link: "../assets/about_party.pdf", text: "2021WHOSEPARTY營手冊.pdf"}
 -
   id: 2
   name: ""
