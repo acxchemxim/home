@@ -4,9 +4,9 @@
   surname: "營手冊"
   title: ""
   thumbnailUrl: crystal.png
-  available: true
+  available: false
   button:
-  - {link: "../assets/about_party.pdf", text: "2021WHOSEPARTY營手冊.pdf"}
+  - {link: "../assets/demo.pdf", text: "2021WHOSEPARTY營手冊.pdf"}
 -
   id: 2
   name: ""
@@ -15,7 +15,7 @@
   thumbnailUrl: crystal.png
   available: true
   button:
-  - {link: "../assets/parents_permission.pdf", text: "2021WHOSEPARTY家長同意書.pdf"}
+  - {link: "../assets/家長同意書.pdf", text: "2021WHOSEPARTY家長同意書.pdf"}
 -
   id: 3
   name: ""
@@ -24,7 +24,7 @@
   thumbnailUrl: crystal.png
   available: true
   button:
-  - {link: "../assets/health_announcement.pdf", text: "2021WHOSEPARTY參與者健康聲明切結書.pdf"}
+  - {link: "../assets/參與者健康聲明切結書.pdf", text: "2021WHOSEPARTY參與者健康聲明切結書.pdf"}
 -
   id: 4
   name: ""
@@ -33,4 +33,4 @@
   thumbnailUrl: crystal.png
   available: true
   button:
-  - {link: "../assets/leave_camp.pdf", text: "2021WHOSEPARTY提早離營切結書.pdf"}
+  - {link: "../assets/離營切結書.pdf", text: "2021WHOSEPARTY提早離營切結書.pdf"}
