@@ -4,7 +4,9 @@ title: "合作夥伴介紹-京阪豚骨拉麵"
 author: "WHOSE PARTY籌備團隊"
 date: 2021-08-07 08:00:00
 link: https://www.facebook.com/2021臺大物治x護理x資管聯合迎新宿營-102707671523379/
+
 permalink: "/sponsor_intro_4.html"
+
 isAvailable: true
 isStaticPost: false
 image: road.jfif
