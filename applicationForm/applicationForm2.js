@@ -372,7 +372,7 @@ submitButtom.addEventListener("click", (e) =>{
   })
   .then(function(confirm_submit){
 
-    this.location.replace("https://ntu.im/whoseparty/applicationConfirmed/")
+    this.location.replace("https://jasperchan5.github.io/Whose_Party/applicationConfirmed/")
 
     confirm_submit = true;
     console.log("Change")
