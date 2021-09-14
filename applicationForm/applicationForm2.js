@@ -16,7 +16,7 @@ var firebaseConfig = {
   {
     if(document.getElementById('name').value=="")
     {
-      confirm_submit = false;
+      
       alert("[姓名]未填寫!!");
       document.getElementById('name').focus();
       ValidationRed();
@@ -31,7 +31,7 @@ var firebaseConfig = {
     }
     if(document.getElementById('NTUID').value=="")
     {
-      confirm_submit = false;
+      
       alert("[學號]未填寫!!");
       document.appliForm.Content.focus();
       ValidationRed();
@@ -39,7 +39,7 @@ var firebaseConfig = {
     }
     if(document.getElementById('birthday').value=="")
     {
-      confirm_submit = false;
+      
       alert("[生日]未填寫!!");
       document.getElementById('').focus();
       ValidationRed();
@@ -47,7 +47,7 @@ var firebaseConfig = {
     }    
     if(document.getElementById('genders').value=="")
     {
-      confirm_submit = false;
+      
       alert("[生理性別]未填寫!!");
       document.getElementById('name').focus();
       ValidationRed();
@@ -55,7 +55,7 @@ var firebaseConfig = {
     }    
     if(document.getElementById('IDnumber').value=="")
     {
-      confirm_submit = false;
+      
       alert("[身分證字號]未填寫!!");
       document.getElementById('IDnumber').focus();
       ValidationRed();
@@ -63,7 +63,7 @@ var firebaseConfig = {
     }    
     if(document.getElementById('cellphone').value=="")
     {
-      confirm_submit = false;
+      
       alert("[手機]未填寫!!");
       document.getElementById('cellphone').focus();
       ValidationRed();
@@ -71,7 +71,7 @@ var firebaseConfig = {
     }    
     if(document.getElementById('Email').value=="")
     {
-      confirm_submit = false;
+      
       alert("[Email]未填寫!!");
       document.getElementById('Email').focus();
       ValidationRed();
@@ -79,7 +79,7 @@ var firebaseConfig = {
     }
     if(document.getElementById('emerCon').value=="")
     {
-      confirm_submit = false;
+      
       alert("[緊急聯絡人]未填寫!!");
       document.getElementById('emerCon').focus();
       ValidationRed();
@@ -87,7 +87,7 @@ var firebaseConfig = {
     }
     if(document.getElementById('emerConRela').value=="")
     {
-      confirm_submit = false;
+      
       alert("[與緊急聯絡人關係]未填寫!!");
       document.getElementById('emerConRela').focus();
       ValidationRed();
@@ -110,7 +110,7 @@ var firebaseConfig = {
     }
     if(document.getElementById('benefOfInsuranceCon').value=="")
     {
-      confirm_submit = false;
+      
       alert("[保險受益人關係]未填寫!!");
       document.getElementById('benefOfInsuranceCon').focus();
       ValidationRed();
@@ -118,7 +118,7 @@ var firebaseConfig = {
     }
     if(document.getElementById('benefOfInsuranceTel').value=="")
     {
-      confirm_submit = false;
+      
       alert("[保險受益人電話]未填寫!!");
       document.getElementById('benefOfInsuranceTel').focus();
       ValidationRed();
@@ -126,7 +126,7 @@ var firebaseConfig = {
     }
     if(document.getElementById('specialCase').value=="")
     {
-      confirm_submit = false;
+      
       alert("[有無特殊病例史或食物過敏]未填寫!!");
       document.getElementById('specialCase').focus();
       ValidationRed();
@@ -134,7 +134,7 @@ var firebaseConfig = {
     }
     if(document.getElementById('tshirtSize').value=="")
     {
-      confirm_submit = false;
+      
       alert("[營服尺寸]未填寫!!");
       document.getElementById('tshirtSize').focus();
       ValidationRed();
@@ -142,14 +142,14 @@ var firebaseConfig = {
     }
     if(document.getElementById('accountL5').value=="")
     {
-      confirm_submit = false;
+      
       alert("[匯款帳號末五碼]未填寫!!");
       document.getElementById('accountL5').focus();
       ValidationRed();
       return false;
     }
     if( document.querySelector('input[name= "diet"]:checked') == null){
-      confirm_submit = false;
+      
       alert("[飲食習慣]未選擇");
       document.getElementsByName('diet').focus();
       return false;
@@ -171,7 +171,7 @@ var firebaseConfig = {
       return true ;
     }
     else{
-      confirm_submit = false;
+      
       return false ;
     }
   }
