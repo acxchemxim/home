@@ -1,3 +1,4 @@
+
 //Unique Firebase object
 var firebaseConfig = {
     apiKey: "AIzaSyComQBEvNZCgWXNykNu-cCHlbxNoREDJgQ",
@@ -382,4 +383,5 @@ submitButtom.addEventListener("click", (e) =>{
   })
 
 })
+
 
