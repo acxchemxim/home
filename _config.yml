@@ -140,13 +140,11 @@ sponsorButtonText: "點我看完整贊助名單"
 sponsorBlock:
 
  - {title: "雪坊優格", image: "logo1.png", url: "sponsor_intro_1.html" }
- - {title: "BAR BEER", image: "logo2.png", url: "sponsor_intro_2.html" }
  - {title: "ONEWAY CAFE", image: "logo3.jpg", url: "sponsor_intro_3.html" }
  - {title: "京阪豚骨拉麵", image: "logo4.jpg", url: "sponsor_intro_4.html" }
  - {title: "轉轉義大利麵", image: "logo5.jpg", url: "sponsor_intro_5.html" }
 sponsorBlock_minor:
  - {title: "雪坊優格", image: "logo1.png", url: "sponsor_intro_1.html" }
- - {title: "BAR BEER", image: "logo2.png", url: "sponsor_intro_2.html" }
  - {title: "oneway cafe", image: "logo3.jpg", url: "sponsor_intro_3.html" }
  - {title: "京阪豚骨拉麵", image: "logo4.jpg", url: "sponsor_intro_4.html" }
  - {title: "轉轉義大利麵", image: "logo5.jpg", url: "sponsor_intro_5.html" }

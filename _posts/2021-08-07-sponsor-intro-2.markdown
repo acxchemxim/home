@@ -7,7 +7,7 @@ link: https://www.facebook.com/2021臺大物治x護理x資管聯合迎新宿營-
 
 permalink: "/sponsor_intro_2.html"
 
-isAvailable: true
+isAvailable: false
 isStaticPost: false
 image: road.jfif
 ---
