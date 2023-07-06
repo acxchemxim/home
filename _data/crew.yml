@@ -1,226 +1,153 @@
 -
   id: 1
-  name: "Max "
-  surname: "吳宇璇"
-  company: "資管系總召"
-  title: "<b>總召</b> ｜ 資管二"
-  modalTitle: "<b>總召<br>Developer<br></b>資管二"
-  bio: "
-  嗨大家，我是資管二的吳宇璇！<br>
-  <br>
-  是個貓奴、中壢人、棒球愛好者、果粉及重度音樂成癮者。<br>
-  也很喜歡騎單車和看海，有私房景點的歡迎推薦給我！！<br>
-  <br>
-  <s>俗話說的好：<b>揪團來宿營，大學一定贏。</b></s>雖然今年受到疫情影響，導致宿營延到開學後舉辦，不過這仍然會是你們交到新朋友的好機會喔！敬請期待學長姐們精心準備的活動吧🤩 ！<br>
-  <br>
-  有任何問題都歡迎來找我喔，不論是課業或是大學生活，會盡力幫助你們的👌 ！希望你們一切順利！<br>
-  <br>
-  大家宿營見～～
-  "
+  name: ""
+  surname: "吳思蒨"
+  company: "農化系總召"
+  title: "<b>總召</b> ｜ 農化二"
+  modalTitle: "<b>總召<br>Developer<br></b>農化二"
+  bio: ""
   thumbnailUrl: 1_compressed.jpg
   executive: true
   vice: false
   leader: false
   dev: false
   social:
-    - {name: "google-plus", link: "https://www.instagram.com/flute._.max/"}
-    - {name: "facebook", link: "https://www.facebook.com/cko43.Max?locale=zh_TW"}
-    - {name: "linkedin", link: "http://linkedin.com/in/宇璇-吳-6018311bb"}
+    - {name: "facebook", link: ""}
 -
   id: 2
-  name: "cic "
-  surname: "陳怡靜"
-  company: "護理系總召"
-  title: "<b>總召</b> ｜ 護理三"
-  modalTitle: "<b>總召<br></b>護理三"
-  bio: "哈囉大家，我是護理三的陳怡靜，大家都叫我cic西可，是個沒有捷運會往生的死台北人。話說為什麼我都大三了還要打自我介紹？？？算了，該來的還是得來==<br>
-  <br>
-  身為系館地縛靈aka護理酒王的me，秉持著生命是一場狂歡的態度又來辦宿營啦哈哈，殊不知才剛開始準備就被疫情gank，籌備之路異常艱辛🥲俗話說的好，參加宿營是成為大學勝z組的第一步，我們有最🐂🍺的團隊跟最🐂🍺的遊戲，各位小大一們是一定要來的ㄅ⋯⋯<br>
-  <br>
-  好煩我講話真的好像霸社猴，反正期待在宿營可以見到可愛ㄉ你們！到時候見(⁎⁍̴̛ᴗ⁍̴̛⁎)"
+  name: "Laurance "
+  surname: "林稚翔"
+  company: "資管系總召"
+  title: "<b>總召</b> ｜ 資管二"
+  modalTitle: "<b>總召<br></b>資管二"
+  bio: ""
   thumbnailUrl: 2_compressed.jpg
   executive: true
   vice: false
   leader: false
   dev: false
   social:
-    - {name: "google-plus", link: "https://www.instagram.com/cic_0705/"}
-    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100004522323854"}
+    - {name: "facebook", link: ""}
 -
   id: 3
-  name: "Yan-Chi Fu "
-  surname: "傅彥齊"
-  company: "物治系總召"
-  title: "<b>總召</b> ｜ 物治二"
-  modalTitle: "<b>總召<br></b>物治二"
-  bio: "<b>「一個人可以走得很快，但一群人可以走得很遠」</b>而當上召也只是比較喜歡大家一起看到遠處的風景而已。<br>
-  <br>
-  謝謝參與這次宿營事前事後的所有工作人員，少了你們認合一個人的出力協助，今天這場派對就無法跑起來，也謝謝你們讓我從來沒後悔接下總召的位置。<br>
-  也特別謝謝從一開始交接什麼都沒有，經過數次開會籌備場勘，今天還是在聊天室裡呱呱叫的其他五位召部夥伴，也一直期待我們一起穿上麻將衫的那天。<br>
-  最後，我也想跟參與這次活動的學弟妹們說聲謝謝，你們讓這場活動圓滿了，在疫情時期，可能給你們的宿營可能沒有往年完整，但還是希望能讓你們對在大學生活中第一個外宿活動有好回憶，也能找到未來一起奮鬥生活的夥伴。<br>
-  我是物治二 總召 傅彥齊，謝謝在看這段文字的你，<b>我們派對上見，你們都是這場WHOSE PARTY的主人。</b><br>"
+  name: ""
+  surname: "鄭棋軒"
+  company: "化學系總召"
+  title: "<b>總召</b> ｜ 化學二"
+  modalTitle: "<b>總召<br></b>化學二"
+  bio: ""
   thumbnailUrl: 3_compressed.jpg
   executive: true
   vice: false
   leader: false
   dev: false
   social:
-    - {name: "google-plus", link: "https://www.instagram.com/yanchi4real_0519"}
-    - {name: "facebook", link: "https://www.facebook.com/CKCR0633"}
+    - {name: "facebook", link: ""}
 -
   id: 4
-  name: "Hung-Yun-Chiao "
-  surname: "洪韻蕎"
-  company: "資管系副召"
-  title: "<b>副召</b> ｜ 資管二"
-  modalTitle: "<b>副召</b><br>資管二"
-  bio: "各位新生嗨，雖然我不覺得你們會看到這邊，但我好像需要自我介紹，我是資管二洪韻蕎，同時是這次宿營的副召。<br>
-  貓派，黑灰白的最可愛，真的超可愛，還有小貓熊也世界可愛，瘋掉。<br>
-  就醬！希望你們進來可以喜歡資管，希望啦。<br>比起那個，宿營給我好好ㄉ玩喔😡 "
+  name: ""
+  surname: "謝詠雯"
+  company: "農化系副召"
+  title: "<b>副召</b> ｜ 農化二"
+  modalTitle: "<b>副召</b><br>農化二"
+  bio: ""
   thumbnailUrl: 4_compressed.jpg
   executive: true
   vice: true
   leader: false
   dev: false
   social:
-     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100002593226867"}
+     - {name: "facebook", link: ""}
 -
   id: 5
-  name: "Sheryll "
-  surname: "邱子恬"
-  company: "護理系副召"
-  title: "<b>副召</b> ｜ 護理三"
-  modalTitle: "<b>副召</b><br>護理三"
-  bio: "哈囉大家～這邊是護理三的邱子恬喔！<br>
-  雖然勵志在停課期間要奮發向上練吉他念日文，但做最多的大概還是看動漫跟練琴了XD<br>
-  大愛排球少年！<s>喜歡到會去收集特上紅茶聯名寶特瓶的那種</s>如果有人也喜歡的話歡迎來找我玩～要一起打排球也可以！<br>
-  今年因為疫情的關係所以這次的宿營是在開學後舉辦，不過還是很希望學弟妹們可以一起來參加～<b>能夠一次認識三個系的夥伴們會是很難得的經驗呢</b>👍 <br>
-  把三天的行程濃縮成兩天一夜，我們會努力為各位帶來很精彩的活動的！敬請期待～<br>
-  也很期待能夠在宿營期間認識大家❤️"
+  name: ""
+  surname: "蔡炘誼"
+  company: "資管系副召"
+  title: "<b>副召</b> ｜ 資管二"
+  modalTitle: "<b>副召</b><br>資管二"
+  bio: ""
   thumbnailUrl: 5_compressed.jpg
   executive: true
   vice: true
   leader: false
   dev: false
   social:
-     - {name: "google-plus", link: "https://www.instagram.com/sheryll_chiu/?r=nametag"}
-     - {name: "facebook", link: "https://www.facebook.com/sheryl.chiu.1/"}
+     - {name: "facebook", link: ""}
 -
   id: 6
-  name: "Elva "
-  surname: "陸品孜"
-  company: "物治系副召"
-  title: "<b>副召</b> ｜ 物治二"
-  modalTitle: "<b>副召</b><br>物治二"
-  bio: "哈囉我是物治的 <b> 陸品孜</b>～o(≧v≦)o<br>
-  看起來應該是親和力十足的人（吧？<br>
-  平常喜歡看小說跳舞<br>
-  芋控一枚(≧▽≦)/也很喜歡小熊維尼<br>
-  是一個脾氣不爆的牡羊座♈️<br>
-  以後有什麼問題都可以問我或是你們<code>總召兒</code>"
+  name: ""
+  surname: "古昭璿"
+  company: "資管系副召"
+  title: "<b>副召</b> ｜ 資管二"
+  modalTitle: "<b>副召</b><br>資管二"
+  bio: ""
   thumbnailUrl: 6_compressed.jpg
   executive: true
   vice: false
   leader: false
   dev: false
   social:
-    - {name: "google-plus", link: "https://www.instagram.com/elva4_09/"}
-    - {name: "facebook", link: "https://www.facebook.com/lu.elva.1/"}
+    - {name: "facebook", link: ""}
 -
   id: 7
-  name: "Julie "
-  surname: "蔣詠心"
+  name: ""
+  surname: "蔡睿哲"
   company: ""
-  title: "<b>活動長</b> ｜ 資管二"
-  modalTitle: "<b>活動長</b><br>資管二"
-  bio: '嗨，我是資管二的蔣詠心。<br>
-  <br>
-  我在家鄉也騎貢丸上下學，但新竹絕對不是美食沙漠🙃 <br>
-  到臺大之後雖然有腳踏車這方便的東西，但我還是好懶得動。<br>
-  身為新竹第一志願畢業的學生（<a href="https://youtu.be/z6dLclGekUw">詳見 6:28</a>），聰明如我想出了最好的方法，蹭車！<br>
-  若有人想知道怎麼搭別人的腳踏車在臺大穿梭的話，歡迎來找我😏 <br>
-  <br>
-  沒有什麼特殊的事蹟，大概只有被 PDOGS 封鎖跟雙主修抽獎系。<br>
-  可以看到我出現在各系抽獎文案底下，歡迎有志之士揪我一起抽獎，讓公關品填滿資管系廳。<br>
-  <br>
-  回歸正題，活動組這次花了不少心力籌備宿營，就是希望來參加的人都能有美好的回憶！<br>
-  歡迎大家踴躍報名啦！'
+  title: "<b>化學系副召</b> ｜ 化學二"
+  modalTitle: "<b>副召</b><br>化學二"
+  bio: ""
   thumbnailUrl: 7_compressed.jpg
-  executive: false
+  executive: true
   vice: false
-  leader: true
+  leader: false
   dev: false
   social:
-    - {name: "google-plus", link: "https://instagram.com/julie__1922?utm_medium=copy_link"}
-    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100001068835776"}
+    - {name: "facebook", link: ""}
 -
   id: 8
-  name: "PuSung "
-  surname: "許圃菘"
+  name: ""
+  surname: "粘蕎"
   company: ""
-  title: "<b>活動長</b> ｜ 資管二"
-  modalTitle: "<b>活動長</b><br>資管二"
-  bio: '嗨大家，我是資管二的許圃菘。<br>
-  <br>
-  我是美食沙漠🏜️的子民，我在家鄉都是騎貢丸上下學😢 <br>
-  到台大發現竟然有腳踏車這種東西，真是太方便了！<br>
-  所以我花了一整個學年鑽研腳踏車的技術。<br>
-  自認是台大腳踏車技術前3%👏！如果有人想知道如何成為腳踏車大神可以來找我。<br>
-  <br>
-  我還有另一個專長是<code>翹課</code>，暑假沒意外的話會在我們高中 for 新生的茶會教大家翹課😏 <br>
-  如果你也想知道怎麼成為翹課大師的話可以趁遇到我的時候問我！<br>
-  <br>
-  還有最後一 part 是看起來像在介紹我自己，但其實在業配資管系壘⚾️🥎！<br>
-  我喜歡打棒球，如果大家也有相同興趣，或想嘗試的話可以來加<b><u>系壘</u></b>( 壘球棒球都會打 )喔！！！🤩🤩 <br>
-  '
+  title: "<b>活動長</b> ｜ 農化二"
+  modalTitle: "<b>活動長</b><br>農化二"
+  bio: ""
   thumbnailUrl: 8_compressed.jpg
   executive: false
   vice: false
   leader: true
   dev: false
   social:
-    - {name: "google-plus", link: "https://instagram.com/pusung_159.4?utm_medium=copy_link"}
-    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100004709856466"}
+    - {name: "facebook", link: ""}
 -
   id: 9
-  name: "Christine "
-  surname: "丁純彗"
+  name: ""
+  surname: "黃子維"
   company: ""
-  title: "<b>活動長</b> ｜ 護理二"
-  modalTitle: "<b>活動長</b><br>護理二"
-  bio: '嗨大家👋<br>我是護理二丁純彗 可撥通勤仔新北人<br>在這次宿營擔任的是活動長啦🥳🥳<br>如果對活動有什麼心得都歡迎與我們分享呦🥑<br><br>以下是我的小自介🤏<br>平時疫情在家最大娛樂是看奧運🥇🥰<br>偶爾彈琴 喜歡聽音樂 🎵<br>大學參加了系排和傳統醫學社<br>有興趣的人可以來交流🤩🤩<br><br>很開心這次的宿營在疫情的打擊下仍然如願舉辦啦🤙🤙<br>為了給B10你們留下大學第一個快樂回憶<br>工人們都辛苦地開了很多會🥵<br>還不快點手刀報名起來嗎😍😍<br>期待與大家見面啦💯💯
-  '
+  title: "<b>活動長</b> ｜ 資管二"
+  modalTitle: "<b>活動長</b><br>資管二"
+  bio: ""
   thumbnailUrl: 9_compressed.jpg
   executive: false
   vice: false
   leader: true
   dev: false
   social:
-    - {name: "google-plus", link: "https://instagram.com/dch_0521?utm_medium=copy_link"}
-    - {name: "facebook", link: "https://www.facebook.com/ding.c.hui.5"}
+    - {name: "facebook", link: ""}
 -
   id: 10
-  name: "Kevin "
-  surname: "呂存笙"
+  name: ""
+  surname: "尤沐泉"
   company: ""
-  title: "<b>活動長</b> ｜ 物治二"
-  modalTitle: "<b>活動長</b><br>物治二"
-  bio: '大家好，我是來自台南一中現在物治系的呂存笙yo！<br>
-  因為來自台南，所以對於吃的什麼都很在行ㄏㄏ<br>
-  如果來台南的話可以call我，直接吃遍台南，不虧。<br>
-  在系上有系籃，算是滿喜歡打球的但不是太強。<br>
-  也有跳過幾年舞，最近在研究底片相機，可以來交流一下。<br>
-  好尬不知道要講什麼，反正希望你們在大學玩的開心！<br>
-  那有什麼營隊或系上任何問題都可以來問我～<br>
-  也可以晚上約一下宵夜～
-  '
+  title: "<b>活動長</b> ｜ 化學二"
+  modalTitle: "<b>活動長</b><br>化學二"
+  bio: ""
   thumbnailUrl: 10_compressed.jpg
   executive: false
   vice: false
   leader: true
   dev: false
   social:
-    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100001876691414"}
+    - {name: "facebook", link: ""}
 -
   id: 11
   name: "Audrey "
