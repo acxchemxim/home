@@ -10,22 +10,22 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "2021 WHOSE PARTY - 資管 X 物治 X 護理 三系聯合宿營"
-email: "ptimnur2021@gmail.com"
-description: "Oct. 23 ~ Oct. 24 | Join us!"
-baseurl: "/Whose_Party"
+title: "2023 農化 x 資管 x 化學 三系聯合宿營"
+email: ""  # TODO: replace this
+description: "Sep. 01 ~ Sep. 03 | Join us!"
+baseurl: "/Whose_Party"  # TODO: replace this
 url: ""
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "2021 WHOSE PARTY"
-organizerAlternateName: "2021WHOSE PARTY Camp"
-organizerDescription: "2021 WHOSE PARTY - 台大 資管 X 物治 X 護理 三系聯合宿營籌備團隊"
-organizerEmail: "ptimnur2021@gmail.com"
+organizerName: "2021 WHOSE PARTY"  # TODO: replace this
+organizerAlternateName: "2021WHOSE PARTY Camp"  # TODO: replace this
+organizerDescription: "2023 農化 x 資管 x 化學 三系聯合宿營"
+organizerEmail: "" # TODO: replace this
 organizerLogo: "/img/favicons/favicon-2.png"
-organizerLink: "https://ntu.im/whoseparty"
+organizerLink: "https://ntu.im/whoseparty"  # TODO: replace this
 
 # Head
 metaKeywords: "whose party, 2021 whose party, event, 臺大, 宿營, 台大, 臺大護理 x 臺大資管 x 臺大物治聯合宿營, NTU, IM, PT, NUR, 國立台灣大學, 國立臺灣大學, 資管, 護理, 物治, 聯合宿營, 迎新宿營, 迎新, 資訊管理學系迎新, 資訊管理學系宿營, 護理學系宿營, 護理學系迎新, 物理治療學系宿營, 物理治療學系迎新"
@@ -55,11 +55,11 @@ navigationLinks:
 
 # Hero Block
 heroImage: "crimson1.jpg"
-heroTitle: "WHOSE PARTY"
-heroTitle2: "2021 三系聯合迎新宿營"
-eventDate: "Oct. 23 ~ Oct. 24"
-typeoutTextValues: '"", "資訊管理學系x", "資訊管理學系x物理治療學系x", "資訊管理學系x物理治療學系x護理學系", "護理學系x", "護理學系x物理治療學系x", "護理學系x物理治療學系x資訊管理學系", "物理治療學系x", "物理治療學系x護理學系x", "物理治療學系x護理學系x資訊管理學系", "資訊管理學系x", "資訊管理學系x護理學系","資訊管理學系x護理學系x物理治療學系", "護理學系x", "護理學系x資訊管理學系x", "護理學系x資訊管理學系x物理治療學系", "物理治療學系x", "物理治療學系x資訊管理學系x", "物理治療學系x資訊管理學系x護理學系"'
-typeoutFallback: "資訊管理學系x物理治療學系x護理學系"
+heroTitle: "農情蜜意的化，資想對你說"
+heroTitle2: "2023三系聯合迎新宿營"
+eventDate: "Sep. 01 ~ Sep. 03"
+typeoutTextValues: ""
+typeoutFallback: "農業化學系x資訊管理學系x化學系"
 heroButtons:
 #  - {permalink: "/news/", text: "了解我們"}
 #  - {permalink: "", text: "現在報名"}
@@ -68,9 +68,9 @@ heroButtons:
 aboutTitle: "參與科系"
 aboutImage: "night.png"
 aboutBlock:
- - {title: "物理治療學系", image: "ntu_pt.jpg", text: "" }
+ - {title: "農業化學系", image: "ntu_ac.jpg", text: "" }
  - {title: "資訊管理學系", image: "ntu_im.png", text: "" }
- - {title: "護理學系", image: "ntu_nur.jpg", text: "" }
+ - {title: "化學系", image: "ntu_chem.jpg", text: "" }
 
 # Statistic Block
 statisticBlockImage: "statistic1.jpg"
@@ -114,12 +114,12 @@ rockstarSpeakersButtonText: "點我看團隊介紹"
 # Venue Block
 venueImage: "deer.jpg"
 venueBlockTitle: "活動地點"
-venueBigImage: "pushin_1_1.jpg"
-venueSmallImage1: "pushin_2.jpg"
-venueSmallImage2: "pushin_4_1.jpg"
-venueSmallImage3: "pushin_5.jpg"
-venueTitle: "埔心牧場"
-venueFeatures: ["桃園市楊梅區幼獅路一段439號","03 464 4132"]
+venueBigImage: "sanfufarm_1.jpg"
+venueSmallImage1: "sanfufarm_2.jpg"
+venueSmallImage2: "sanfufarm_3.jpg"
+venueSmallImage3: "sanfufarm_4.jpg"
+venueTitle: "三富休閒農場"
+venueFeatures: ["宜蘭縣冬山鄉新寮二路161巷88號","03 958 8690"]
 
 # Tweets Feed Block
 # tweetsFeedImage: "twitter-feed.jpg"
@@ -134,7 +134,7 @@ partnersTitle: ""
 partnersC4sponsorsButton: ""
 
 # Sponsors Block
-sponsorTitle: "合作夥伴"
+sponsorTitle: "合作夥伴【待改】"
 sponsorImage: "night.png"
 sponsorButtonText: "點我看完整贊助名單"
 sponsorBlock:
@@ -177,20 +177,20 @@ sponsorBlock_minor:
 ticketsImage: "green.jpg"
 ticketsTitle: " 在此報名"
 ticketsInfo: ""
-ticketReminderList: ["報名資格：全體台大物治、資管及護理系大一新生","活動日期：10/23～24","活動地點：埔心牧場", "匯款資訊<br>帳戶：007005725407<br>戶名：林郁傑<br>銀行：005-土地銀行", "請注意報名期限及繳費期限，逾時不候！","宿營防疫規劃及其他資訊可參考FAQ說明，也歡迎直接聯絡我們喔！", "<br>"]
+ticketReminderList: ["報名資格：全體台大農化、資管及化學系大一新生","活動日期：09/01～09/03","活動地點：三富休閒農場", "匯款資訊<br>帳戶：【待補】<br>戶名：【待補】<br>銀行：【待補】", "請注意報名期限及繳費期限，逾時不候！","宿營防疫規劃及其他資訊可參考FAQ說明，也歡迎直接聯絡我們喔！", "<br>"]
 ticketsOffers:
  -
   name: "報名連結"
-  price: "2,900"
+  price: "【待補】"
   priceCurrency: "NT$  "
   #ticketsNumber: "300"
   #buyButtonLink: "{{site.baseurl}}/applicationform"
   buyButtonText: "點我報名"
-  ticketContentList: ["報名期限至 9/29 23:59 止", "繳費期限至 9/30 23:59 止"]
-  validFrom: "2021-09-01T09:00"
-  validThrough: "2021-09-29T23:59"
+  ticketContentList: ["報名期限至 8/20 23:59 止", "繳費期限至 【待補】 止"]
+  validFrom: "2023-07-15T09:00"
+  validThrough: "2023-08-20T23:59"
   soldOut: false
-  disabled: false
+  disabled: true  # TODO: change it
   soldOutText: "--報名已截止--"
 
 #  -
@@ -220,11 +220,10 @@ footerBlocks:
   - title: "宿營夥伴"
     links:
       - {permalink: "/sponsorsList", text: "完整贊助名單"}
-      - {permalink: "/assets/proposal.pdf", text: "合作辦法說明"}
-      - {link: "https://www.mc.ntu.edu.tw/nursing/Index.action", text: "台大護理學系"}
-      - {link: "https://www.mc.ntu.edu.tw/ntupt/Index.action", text: "台大物理治療學系"}
+      - {link: "https://www.ac.ntu.edu.tw", text: "台大農業化學系"}
       - {link: "https://management.ntu.edu.tw/IM", text: "台大資訊管理學系"}
-      - {link: "https://www.pushin-ranch.com/", text: "埔心牧場"}
+      - {link: "https://www.ch.ntu.edu.tw/Default.html", text: "台大化學系"}
+      - {link: "https://www.sanfufarm.com.tw/", text: "三富休閒農場"}
       # - {link: "http://gdg.org.ua", text: "點我進入贊助頁面"}
 
   - title: "常用連結"
@@ -235,14 +234,12 @@ footerBlocks:
       - {link: "https://nol.ntu.edu.tw/nol/guest/index.php", text: "臺大課程網"}
       - {link: "https://www.cc.ntu.edu.tw/chinese/index.asp", text: "臺大計算機及資訊網路中心"}
       - {link: "https://pdogs.ntu.im/judge/", text: "PDOGS"}
-      - {link: "https://www.facebook.com/groups/ntucmnursing/?ref=share", text: "台大護理系交流版"}
 
   - title: "聯絡資訊"
     links:
-      - {link: "tel:+886939818275", text: "物理治療學系窗口：傅彥齊"}
-      - {link: "tel:+886987953881", text: "資訊管理學系窗口：吳宇璇"}
-      - {link: "tel:+886966570258", text: "護理學系窗口：陳怡靜"}
-      - {link: "mailto:ptimnur2021@gmail.com", text: "2021 WHOSE PARTY 臺大護理物治資管聯合迎新宿營 官方信箱"}
+      - {link: "tel:", text: "農業化學系窗口：吳思蒨"}  # TODO: replace this
+      - {link: "tel:", text: "資訊管理學系窗口：林稚翔"}
+      - {link: "tel:", text: "化學系窗口：鄭棋軒"}
 
 
   # - title: "重點專區"
