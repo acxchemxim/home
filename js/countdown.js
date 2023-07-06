@@ -1,6 +1,6 @@
 var time = new Date();
 
-time.setMonth(9);
+time.setMonth(8);
 time.setDate(1);
 time.setHours(9);
 time.setMinutes(0);
