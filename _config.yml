@@ -177,16 +177,16 @@ sponsorBlock_minor:
 ticketsImage: "green.jpg"
 ticketsTitle: " 在此報名"
 ticketsInfo: ""
-ticketReminderList: ["報名資格：全體台大農化、資管及化學系大一新生","活動日期：09/01～09/03","活動地點：三富休閒農場", "匯款資訊<br>帳戶：【待補】<br>戶名：【待補】<br>銀行：【待補】", "請注意報名期限及繳費期限，逾時不候！","宿營防疫規劃及其他資訊可參考FAQ說明，也歡迎直接聯絡我們喔！", "<br>"]
+ticketReminderList: ["報名資格：全體台大農化、資管及化學系大一新生","活動日期：9/1～9/3","活動地點：三富休閒農場", "匯款資訊<br>帳戶：【待補】<br>戶名：【待補】<br>銀行：【待補】", "請注意報名期限及繳費期限，逾時不候！","宿營防疫規劃及其他資訊可參考FAQ說明，也歡迎直接聯絡我們喔！", "<br>"]
 ticketsOffers:
  -
   name: "報名連結"
-  price: "【待補】"
+  price: "4800"
   priceCurrency: "NT$  "
   #ticketsNumber: "300"
   #buyButtonLink: "{{site.baseurl}}/applicationform"
   buyButtonText: "點我報名"
-  ticketContentList: ["報名期限至 8/20 23:59 止", "繳費期限至 【待補】 止"]
+  ticketContentList: ["早鳥優惠至 7/27 23:59止 (原價 $5000)", "報名期限至 8/20 23:59 止", "繳費期限至 【待補】 止"]
   validFrom: "2023-07-15T09:00"
   validThrough: "2023-08-20T23:59"
   soldOut: false

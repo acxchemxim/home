@@ -309,13 +309,12 @@
   company: ""
   title: "<b>Developer</b> ｜ 資管二"
   modalTitle: "<b>Developer</b><br>資管二"
-  bio: ''
-  thumbnailUrl: 27_compressed.jpg
+  bio: "Hi I'm Ducky~ Huge thanks to Jasper, Laurence, Max, and Audrey for the website template. QQ"
+  thumbnailUrl: 20_compressed.gif
   executive: false
   vice: false
   leader: false
   dev: true
   social:
-    - {name: "google-plus", link: ""}
-    - {name: "facebook", link: ""}
+    - {name: "github", link: "https://github.com/DuckyPonp"}
 

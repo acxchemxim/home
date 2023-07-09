@@ -10,8 +10,10 @@
                 {% assign heroText2 = site.heroTitle2 | split:"<typeout>" %}
                 <h1 style="font-weight: 500; font-family: 'Noto Serif TC', serif;">{{heroText}} </h1>
                 <h2 style="font-weight: 400; font-family: 'Noto Serif TC', serif;">{{heroText2}} </h2>
+                <br>
                 <p style="font-weight: 500; font-family: 'Noto Serif TC', serif;">{{ site.eventDate }}</p>
                 <p style="font-weight: 500; font-family: 'Noto Serif TC', serif;">Starts in:</p>
+                <br>
                 {% include countdown.html %}
             </div>
         </div>
