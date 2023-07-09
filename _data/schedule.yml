@@ -1,106 +1,108 @@
 -
-  date: "2021-10-23"
-  dateReadable: "Oct. 23"
+  date: "2023-09-01"
+  dateReadable: "Sep. 01"
   tracks:
     - {title: "活動內容", color: "#7c2222"}
   timeslots:
     - {
-      startTime: "09:00",
+      startTime: "",
       sessionIds: [001]
     }
     - {
-      startTime: "10:00",
+      startTime: "",
       sessionIds: [002]
     }
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
+    	startTime: "",
     	sessionIds: [003]
     }
     - {
-        startTime: "10:45",
-        endTime: "13:00",
-        sessionIds: [004]
+      startTime: "",
+      sessionIds: [501]
     }
     - {
-    	startTime: "13:00",
-    	endTime: "14:00",
-    	sessionIds: [005]
-    }
-    - {
-      startTime: "14:00",
-      endTime: "16:00",
-      sessionIds: [006]
-    }
-    - {
-      startTime: "16:00",
-      endTime: "18:00",
-      sessionIds: [007]
-    }
-    - {
-      startTime: "18:00",
-      endTime: "20:00",
-      sessionIds: [010]
-    }
-    - {
-      startTime: "20:00",
-      endTime: "23:00",
-      sessionIds: [011]
-    }
-    - {
-      startTime: "23:00",
-      sessionIds: [012]
+    	startTime: "",
+    	sessionIds: [011]
     }
 -
-  date: "2021-10-24"
-  dateReadable: "Oct. 24"
+  date: "2023-09-02"
+  dateReadable: "Sep. 02"
   tracks:
     - {title: "活動內容", color: "#7c2222"}
   timeslots:
     - {
-    	startTime: "08:00",
-    	sessionIds: [100]
-    }
-    - {
-    	startTime: "08:00",
-      endTime: "09:00",
+    	startTime: "",
     	sessionIds: [101]
     }
     - {
-      startTime: "09:00",
-      endTime: "12:00",
+      startTime: "",
       sessionIds: [102]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "13:00",
+    	startTime: "",
     	sessionIds: [103]
     }
     - { #水球之後把83及89註解、95取消註解，還有sessions.yml的105行註解
-    	startTime: "13:00",
-    	endTime: "15:30",
+    	startTime: "",
     	sessionIds: [104],
       invisible: true
     }
     - {
-    	startTime: "15:30",
-    	endTime: "16:30",
+    	startTime: "",
     	sessionIds: [105],
       invisible: true
     }
     - {
-      startTime: "13:00",
-    	endTime: "16:30",
-    	sessionIds: [104],
+      startTime: "",
+    	sessionIds: [005],
       # invisible: true
     }
     - {
-    	startTime: "16:30",
-    	endTime: "18:00",
-    	sessionIds: [106]
+    	startTime: "",
+    	sessionIds: [501]
     }
     - {
-    	startTime: "18:00",
-    	sessionIds: [107]
+    	startTime: "",
+    	sessionIds: [104]
     }
-
+-
+  date: "2023-09-03"
+  dateReadable: "Sep. 03"
+  tracks:
+    - {title: "活動內容", color: "#7c2222"}
+  timeslots:
+    - {
+    	startTime: "",
+    	sessionIds: [101]
+    }
+    - {
+      startTime: "",
+      sessionIds: [006]
+    }
+    - {
+    	startTime: "",
+    	sessionIds: [007]
+    }
+    - { #水球之後把83及89註解、95取消註解，還有sessions.yml的105行註解
+    	startTime: "",
+    	sessionIds: [104],
+      invisible: true
+    }
+    - {
+    	startTime: "",
+    	sessionIds: [105],
+      invisible: true
+    }
+    - {
+      startTime: "",
+    	sessionIds: [010],
+      # invisible: true
+    }
+    - {
+    	startTime: "",
+    	sessionIds: [105]
+    }
+    - {
+    	startTime: "",
+    	sessionIds: [106]
+    }

@@ -32,19 +32,20 @@
     - {name: "google-plus", link: "https://instagram.com/lch0410?igshid=OGQ5ZDc2ODk2ZA=="}
 -
   id: 3
-  name: ""
+  name: "Flight "
   surname: "鄭棋軒"
   company: "化學系總召"
   title: "<b>總召</b> ｜ 化學二"
   modalTitle: "<b>總召<br></b>化學二"
-  bio: ""
+  bio: "什麼都會，會吉他會打鼓會kb，偶爾也會偷把一下妹，跟我聊天你會暈船，請小心服用。"
   thumbnailUrl: 3_compressed.jpg
   executive: true
   vice: false
   leader: false
   dev: false
   social:
-    - {name: "facebook", link: ""}
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100005122215142&mibextid=LQQJ4d"}
+    - {name: "google-plus", link: "https://instagram.com/flight_1048576?igshid=MzRlODBiNWFlZA=="}
 -
   id: 4
   name: "Kelly Xie "
@@ -142,19 +143,20 @@
     - {name: "google-plus", link: "https://instagram.com/sophie.huang.0825"}
 -
   id: 10
-  name: ""
+  name: "Olaf "
   surname: "尤沐泉"
   company: ""
   title: "<b>活動長</b> ｜ 化學二"
   modalTitle: "<b>活動長</b><br>化學二"
-  bio: ""
+  bio: "你們好，我是化學系猴王🐒，也可以叫我萬良俊，那是我同學萬閎的阿公，來宿營要好好照顧自己，因為我會帶壞你們，也會把你們玩壞。"
   thumbnailUrl: 10_compressed.jpg
   executive: false
   vice: false
   leader: true
   dev: false
   social:
-    - {name: "facebook", link: ""}
+    - {name: "facebook", link: "https://www.facebook.com/FrozenPagurian?mibextid=LQQJ4d"}
+    - {name: "google-plus", link: "https://instagram.com/eat_me_olaf?igshid=MzRlODBiNWFlZA=="}
 -
   id: 11
   name: "Mood "
