@@ -21,14 +21,15 @@
   company: "資管系總召"
   title: "<b>總召</b> ｜ 資管二"
   modalTitle: "<b>總召<br></b>資管二"
-  bio: ""
+  bio: "希望大家在宿營能玩得開心！"
   thumbnailUrl: 2_compressed.jpg
   executive: true
   vice: false
   leader: false
   dev: false
   social:
-    - {name: "facebook", link: ""}
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100026451723563&mibextid=LQQJ4d"}
+    - {name: "google-plus", link: "https://instagram.com/lch0410?igshid=OGQ5ZDc2ODk2ZA=="}
 -
   id: 3
   name: ""
@@ -219,20 +220,21 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100015397808125&mibextid=ZbWKwL"}
 -
   id: 15
-  name: ""
+  name: "LIU,QIAN-YI "
   surname: "劉芊儀"
   company: ""
   title: "<b>公關長</b> ｜ 資管二"
   modalTitle: "<b>公關長</b><br>資管二"
-  bio: ''
+  bio: '哈囉大家好！我是資管的劉芊儀~期待可以認識大家٩(ˊᗜˋ*)و'
   thumbnailUrl: 15_compressed.jpg
   executive: false
   vice: false
   leader: true
   dev: false
   social:
-    - {name: "google-plus", link: ""}
-    - {name: "facebook", link: ""}
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100003405213725&mibextid=ZbWKwL"}
+    - {name: "google-plus", link: "https://instagram.com/qian_yi71?igshid=MzNlNGNkZWQ4Mg=="}
+
 -
   id: 16
   name: ""
