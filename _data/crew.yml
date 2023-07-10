@@ -32,12 +32,12 @@
     - {name: "google-plus", link: "https://instagram.com/lch0410?igshid=OGQ5ZDc2ODk2ZA=="}
 -
   id: 3
-  name: "Flight "
+  name: "Andrew "
   surname: "鄭棋軒"
   company: "化學系總召"
   title: "<b>總召</b> ｜ 化學二"
   modalTitle: "<b>總召<br></b>化學二"
-  bio: "什麼都會，會吉他會打鼓會kb，偶爾也會偷把一下妹，跟我聊天你會暈船，請小心服用。"
+  bio: "大家好，我是化學系總召鄭棋軒"
   thumbnailUrl: 3_compressed.jpg
   executive: true
   vice: false
@@ -255,22 +255,6 @@
     - {name: "facebook", link: ""}
 -
   id: 17
-  name: ""
-  surname: "江睿宸"
-  company: ""
-  title: "<b>總務長</b> ｜ 資管二"
-  modalTitle: "<b>總務長</b><br>資管二"
-  bio: ''
-  thumbnailUrl: 17_compressed.jpg
-  executive: false
-  vice: false
-  leader: true
-  dev: false
-  social:
-    - {name: "google-plus", link: ""}
-    - {name: "facebook", link: ""}
--
-  id: 18
   name: "LUO, WEI-YU "
   surname: "駱威宇"
   company: ""
