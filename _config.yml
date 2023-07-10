@@ -183,8 +183,8 @@ ticketsOffers:
   name: "報名連結"
   price: "4800"
   priceCurrency: "NT$  "
-  #ticketsNumber: "300"
-  #buyButtonLink: "{{site.baseurl}}/applicationform"
+  # ticketsNumber: "300"
+  # buyButtonLink: "{{site.baseurl}}/applicationform"
   buyButtonText: "點我報名"
   ticketContentList: ["早鳥優惠至 7/27 23:59止 (原價 $5000)", "報名期限至 8/20 23:59 止", "繳費期限至 【待補】 止"]
   validFrom: "2023-07-15T09:00"
