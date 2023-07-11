@@ -9,19 +9,19 @@
       sessionIds: [001]
     }
     - {
-      startTime: "",
+      startTime: "12:30",
       sessionIds: [002]
     }
     - {
-    	startTime: "",
+    	startTime: "14:10",
     	sessionIds: [003]
     }
     - {
-      startTime: "",
+      startTime: "17:20",
       sessionIds: [501]
     }
     - {
-    	startTime: "",
+    	startTime: "19:00",
     	sessionIds: [011]
     }
 -
@@ -31,38 +31,28 @@
     - {title: "活動內容", color: "#7c2222"}
   timeslots:
     - {
-    	startTime: "",
+    	startTime: "08:00",
     	sessionIds: [101]
     }
     - {
-      startTime: "",
+      startTime: "09:10",
       sessionIds: [102]
     }
     - {
-    	startTime: "",
+    	startTime: "12:20",
     	sessionIds: [103]
     }
-    - { #水球之後把83及89註解、95取消註解，還有sessions.yml的105行註解
-    	startTime: "",
-    	sessionIds: [104],
-      invisible: true
-    }
     - {
-    	startTime: "",
-    	sessionIds: [105],
-      invisible: true
-    }
-    - {
-      startTime: "",
+      startTime: "14:00",
     	sessionIds: [005],
       # invisible: true
     }
     - {
-    	startTime: "",
+    	startTime: "18:10",
     	sessionIds: [501]
     }
     - {
-    	startTime: "",
+    	startTime: "19:30",
     	sessionIds: [104]
     }
 -
@@ -72,37 +62,22 @@
     - {title: "活動內容", color: "#7c2222"}
   timeslots:
     - {
-    	startTime: "",
+    	startTime: "08:00",
     	sessionIds: [101]
     }
     - {
-      startTime: "",
+      startTime: "09:10",
       sessionIds: [006]
     }
     - {
-    	startTime: "",
+    	startTime: "12:20",
     	sessionIds: [007]
     }
-    - { #水球之後把83及89註解、95取消註解，還有sessions.yml的105行註解
-    	startTime: "",
-    	sessionIds: [104],
-      invisible: true
-    }
     - {
-    	startTime: "",
-    	sessionIds: [105],
-      invisible: true
-    }
-    - {
-      startTime: "",
-    	sessionIds: [010],
-      # invisible: true
-    }
-    - {
-    	startTime: "",
+    	startTime: "16:00",
     	sessionIds: [105]
     }
     - {
-    	startTime: "",
+    	startTime: "17:00",
     	sessionIds: [106]
     }

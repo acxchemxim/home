@@ -1,31 +1,27 @@
 - id: 001
   title: "啟程 🚌 "
-  place: ""
   service: true
   description: ""
 
 - id: 002
-  title: "午餐+營包解說 🎊"
+  title: "午餐 + 營包解說 🎊"
   service: true
   description: ""
 
 - id: 003
   title: "大地 🏝"
   # service: true
-  place: ""
   description: "盡全力透過各種障礙和關卡吧！"
   detail: ""
   image: "newmap.jpg"
 
 - id: 004
   title: "午餐 🍱"
-  place: "餐廳"
   service: true
   description: ""
 
 - id: 005
   title: "賭場 + 密室 💰"
-  place: ""
   # teamMember: "ㄎㄎ"
   description: "賭一把梭哈，搏得數倍身家！"
   detail: ""
@@ -34,59 +30,42 @@
 - id: 006
   title: "水大地 🏝"
   # service: true
-  place: ""
   description: "讓我們盡情的玩水囉！"
   detail: ""
   image: "newmap.jpg"
 
 - id: 007
-  title: "拍賣"
-  # service: true
-  place: ""
+  title: "拍賣 + 烤肉 🥓"
   description: ""
   detail: ""
-
-- id: 010
-  title: "BBQ午餐 🥓"
-  place: "烤肉區"
-  service: true
-  description: "我的肉很大～你忍一下～"
 
 - id: 011
   title: "假案 🏰"
   description: "請你透過與不同的NPC對話推論出他們各自的身份信息,並還原案件真相吧！"
-  place: ""
   detail: ""
   image: "newmap.jpg"
 
 - id: 101
   title: "早餐 🌭️"
-  # place: "餐廳"
   service: true
   description: ""
 
 - id: 102
   title: "RPG 🧭"
   # service: true
-  place: ""
   description: "請你作為旅館老闆的助手,在不同的地點收集線索，並從對話中獲得關鍵訊息以解開謎題吧！"
   detail: ""
   image: "newmap.jpg"
 
 - id: 103
   title: "午餐 🍱"
-  place: "餐廳"
   service: true
   description: "Respect 午餐 you know？"
 
 - id: 104
   title: "晚會 🎭"
-  # service: true
-  place: "whoseparty"
   description: ""
-  # video: "//www.youtube.com/embed/6RNPLsZzBIo"
   detail: ""
-  image: "newmap.jpg"
 
 - id: 105
   title: "回顧 😢"
@@ -95,13 +74,11 @@
 
 - id: 106
   title: "快樂賦歸 🏠"
-  # place: "餐廳"
   service: true
   description: "希望這次的宿營有帶給你們不管是甚麼東西都好，願你們能在大學生活過得充實愉快！"
 
 - id: 501
   title: "晚餐 🍛"
-  # place: "餐廳"
   service: true
   description: ""
 
