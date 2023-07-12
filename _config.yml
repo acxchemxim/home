@@ -181,16 +181,17 @@ ticketReminderList: ["報名資格：全體台大農化、資管及化學系大�
 ticketsOffers:
  -
   name: "報名連結"
-  price: "4800"
+  priceIndiv: "4200"
+  priceGroup: "4000"
   priceCurrency: "NT$  "
   # ticketsNumber: "300"
-  # buyButtonLink: "{{site.baseurl}}/applicationform"
+  buyButtonLink: "https://forms.gle/VxGx2xHqoDMeGoU1A"
   buyButtonText: "點我報名"
-  ticketContentList: ["早鳥優惠至 7/27 23:59止 (原價 $5000)", "報名期限至 8/20 23:59 止", "繳費期限至 【待補】 止"]
-  validFrom: "2023-07-15T09:00"
-  validThrough: "2023-08-20T23:59"
+  ticketContentList: ["早鳥優惠至 7/31 23:59止 (原價 $4300 / $4200)", "報名期限至 8/24 23:59 止", "繳費期限至 【待補】 止"]
+  validFrom: "2023-07-18T09:00"
+  validThrough: "2023-08-24T23:59"
   soldOut: false
-  disabled: true  # TODO: change it
+  disabled: false  # TODO: change it
   soldOutText: "--報名已截止--"
 
 #  -

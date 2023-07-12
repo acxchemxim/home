@@ -8,7 +8,7 @@
 			{% for ticketsOffer in site.ticketsOffers %}
 			{% assign colWidth = 12 | divided_by: forloop.length %}
 			{% assign check = forloop.index | modulo:2 %}
-			<div class="col-md-4 col-sm-4 col-md-offset-1 col-sm-offset-1">
+			<div class="col-md-5 col-sm-5 col-md-offset-1 col-sm-offset-1">
 				<div class="ellipse pricing-col {% if ticketsOffer.featured != null %}pricing-col-featured{% endif %} animated hiding">
 					<div data-animation="{% if forloop.index == 1 %}fadeInLeft{% elsif forloop.index == forloop.length %}fadeInRight{% else %}fadeInDown{% endif %}"
 					data-delay="{% if check == 0 %}0{% else %}500{% endif %}">
@@ -16,8 +16,11 @@
 						<!-- {% if ticketsOffer.ribbon != null %}<div class="pricing-ribbon">{{ ticketsOffer.ribbon }}</div>{% endif %} -->
 						<div class="pricing-header">
 							<p class="title" style="color: black;font-weight: 700; font-family: 'Noto Serif TC', serif;">{{ ticketsOffer.name }}</p>
-							<p class="price" style="color:#7c2222; line-height: 1cm;"><span class="currency" style="font-family: 'Noto Serif TC', serif;">
-								{{ticketsOffer.priceCurrency }}</span><b style="font-family: 'Noto Serif TC', serif;">{{ ticketsOffer.price }}</b>
+							<p class="price" style="color:#7c2222; line-height: 0;"><span class="currency" style="font-family: 'Noto Serif TC', serif;">
+								<b style="font-weight: 500;">個人</b> {{ticketsOffer.priceCurrency }}</span><b style="font-family: 'Noto Serif TC', serif;">{{ ticketsOffer.priceIndiv }}</b>
+							</p>
+							<p class="price" style="color:#7c2222; line-height: 0;"><span class="currency" style="font-family: 'Noto Serif TC', serif;">
+								<b style="font-weight: 500;">團報</b> {{ticketsOffer.priceCurrency }}</span><b style="font-family: 'Noto Serif TC', serif;">{{ ticketsOffer.priceGroup }}</b>
 							</p>
 						</div>
 						<div class="pricing-content">
@@ -29,7 +32,7 @@
 							{% if ticketsOffer.soldOut == true %}
 							<span class="button disabled" style="font-weight: 400; font-family: 'Noto Serif TC', serif;">{{ ticketsOffer.soldOutText }}</span>
 							{% elsif ticketsOffer.disabled != true %}
-							<a class="button" href="{{site.baseurl}}/application" target="_blank" style="font-weight: 500; font-family: 'Noto Serif TC', serif;">{{ ticketsOffer.buyButtonText }}</a>
+							<a class="button" href={{ ticketsOffer.buyButtonLink }} target="_blank" style="font-weight: 500; font-family: 'Noto Serif TC', serif;">{{ ticketsOffer.buyButtonText }}</a>
 							{% else %}
 							{% assign ticketValidFrom = ticketsOffer.validFrom | split: "T" %}
 							<span class="button disabled fallback" style="font-weight: 400; font-family: 'Noto Serif TC', serif;">{{ ticketValidFrom[0]}} {{ ticketValidFrom[1] }}開始報名！</span>
@@ -39,7 +42,7 @@
 				</div>
 			</div>
 			{% endfor %}
-			<div class="col-md-4 col-sm-4 col-md-offset-2 col-sm-offset-2">
+			<div class="col-md-4 col-sm-4 col-md-offset-1 col-sm-offset-1">
 				<div class="tutorial animated hiding" data-animation="fadeInRight" data-delay="500" style="width: 90%;margin-left:5%; ">
 					<h6 style="font-size: 32px; text-align: center; font-weight: 700; font-family: 'Noto Serif TC', serif; text-shadow: 1px 1px 2px black; border-top: 5px; padding: 6px;">報名須知</h6>
 					<br>
