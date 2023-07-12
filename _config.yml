@@ -45,7 +45,7 @@ navigationLinks:
  - {permalink: "/news/", text: "最新消息"}
  - {permalink: "/schedule/", text: "活動時程"}
  - {permalink: "/crew/", text: "團隊介紹"}
- - {permalink: "/team/", text: "小隊資訊"}
+# - {permalink: "/team/", text: "小隊資訊"}
  - {permalink: "/download/", text: "下載區"}
  - {permalink: "/faq/", text: "FAQ"}
 # bottomNavigationLinks:

@@ -10,40 +10,43 @@
 
 - id: 003
   title: "大地 🏝"
-  # service: true
+  service: true
   description: "盡全力透過各種障礙和關卡吧！"
-  detail: ""
-  image: "newmap.jpg"
+  # detail: ""
+  # image: "newmap.jpg"
 
 - id: 004
   title: "午餐 🍱"
   service: true
-  description: ""
+  # description: ""
 
 - id: 005
   title: "賭場 + 密室 💰"
   # teamMember: "ㄎㄎ"
+  service: true
   description: "賭一把梭哈，搏得數倍身家！"
-  detail: ""
-  image: "newmap.jpg"
+  # detail: ""
+  # image: "newmap.jpg"
 
 - id: 006
   title: "水大地 🏝"
-  # service: true
+  service: true
   description: "讓我們盡情的玩水囉！"
-  detail: ""
-  image: "newmap.jpg"
+  # detail: ""
+  # image: "newmap.jpg"
 
 - id: 007
   title: "拍賣 + 烤肉 🥓"
+  service: true
   description: ""
-  detail: ""
+  # detail: ""
 
 - id: 011
   title: "假案 🏰"
+  service: true
   description: "請你透過與不同的NPC對話推論出他們各自的身份信息,並還原案件真相吧！"
-  detail: ""
-  image: "newmap.jpg"
+  # detail: ""
+  # image: "newmap.jpg"
 
 - id: 101
   title: "早餐 🌭️"
@@ -52,10 +55,10 @@
 
 - id: 102
   title: "RPG 🧭"
-  # service: true
+  service: true
   description: "請你作為旅館老闆的助手,在不同的地點收集線索，並從對話中獲得關鍵訊息以解開謎題吧！"
-  detail: ""
-  image: "newmap.jpg"
+  # detail: ""
+  # image: "newmap.jpg"
 
 - id: 103
   title: "午餐 🍱"
@@ -64,8 +67,9 @@
 
 - id: 104
   title: "晚會 🎭"
+  service: true
   description: ""
-  detail: ""
+  # detail: ""
 
 - id: 105
   title: "回顧 😢"
