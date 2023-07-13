@@ -152,7 +152,7 @@ sponsorBlock_minor:
 ticketsImage: "green.jpg"
 ticketsTitle: " 在此報名"
 ticketsInfo: ""
-ticketReminderList: ["報名資格：全體台大農化、資管及化學系大一新生","活動日期：9/1～9/3","活動地點：三富休閒農場", "匯款資訊<br>帳戶：【待補】<br>戶名：【待補】<br>銀行：【待補】", "請注意報名期限及繳費期限，逾時不候！","宿營防疫規劃及其他資訊可參考FAQ說明，也歡迎直接聯絡我們喔！", "<br>"]
+ticketReminderList: ["報名資格：全體台大農化、資管及化學系大一新生","活動日期：9/1～9/3","活動地點：三富休閒農場", "匯款資訊<br>帳戶：212-50-474258 <br>銀行：第一銀行(ATM代碼:007)", "請注意報名期限及繳費期限，<br>逾時不候！","宿營防疫規劃及其他資訊可參考FAQ，<br>也歡迎直接聯絡我們喔！"]
 ticketsOffers:
  -
   name: "報名連結"
@@ -162,7 +162,7 @@ ticketsOffers:
   # ticketsNumber: "300"
   buyButtonLink: "https://forms.gle/VxGx2xHqoDMeGoU1A"
   buyButtonText: "點我報名"
-  ticketContentList: ["早鳥優惠至 7/31 23:59止 (原價 $4300 / $4200)", "報名期限至 8/24 23:59 止", "繳費期限至 【待補】 止"]
+  ticketContentList: ["早鳥優惠至 7/31 23:59止 <br> (原價 $4300(個人) / $4200(圑報))", "報名期限至 8/24 23:59 止", "繳費期限：<br>學測生早鳥優惠［7/18～7/31］/<br>分科生早鳥優惠［8/16～8/20］/<br>一般［～8/24］"]
   validFrom: "2023-07-18T09:00"
   validThrough: "2023-08-24T23:59"
   soldOut: false
@@ -213,10 +213,9 @@ footerBlocks:
 
   - title: "聯絡資訊"
     links:
-      - {link: "tel:", text: "農業化學系窗口：吳思蒨"}  # TODO: replace this
-      - {link: "tel:", text: "資訊管理學系窗口：林稚翔"}
-      - {link: "tel:", text: "化學系窗口：鄭棋軒"}
-
+      - {text: "農業化學系窗口：吳思蒨 tel:0906266802"}
+      - {text: "資訊管理學系窗口：林稚翔 tel:0905496869"}
+      - {text: "化學系窗口：鄭棋軒 tel:0983300215"}
 
   # - title: "重點專區"
     # links:
