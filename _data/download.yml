@@ -6,7 +6,7 @@
   thumbnailUrl: crystal.png
   available: false
   button:
-  - {link: "", text: "2021WHOSEPARTY營手冊.pdf"}  # TODO: replace this
+  - {link: "", text: "營手冊.pdf"}  # TODO: replace this
 -
   id: 2
   name: ""
