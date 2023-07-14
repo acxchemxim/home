@@ -138,10 +138,23 @@ sponsorTitle: "合作夥伴"
 sponsorImage: "night.png"
 sponsorButtonText: "點我看完整贊助名單"
 sponsorBlock:
-
  - {title: "新天鵝堡桌遊", image: "logo1.png", url: "" }
+ - {title: "Escapeholics", image: "logo2.jpg", url: "" }
+ - {title: "古林鴨著", image: "logo3.jpg", url: "" }
+ - {title: "左巴好室", image: "logo4.jpg", url: "" }
+ - {title: "Oneway Caf'e", image: "logo5.jpg", url: "" }
 sponsorBlock_minor:
  - {title: "新天鵝堡桌遊", image: "logo1.png", url: "" }
+ - {title: "Escapeholics", image: "logo2.jpg", url: "" }
+ - {title: "古林鴨著", image: "logo3.jpg", url: "" }
+ - {title: "左巴好室", image: "logo4.jpg", url: "" }
+ - {title: "Oneway Caf'e", image: "logo5.jpg", url: "" }
+ - {title: "手目耳眼鏡", image: "logo6.jpg", url: "" }
+ - {title: "Pasta 2 Go", image: "logo7.jpg", url: "" }
+ - {title: "蘇草", image: "logo8.jpg", url: "" }
+ - {title: "搗飛豆花", image: "logo9.jpg", url: "" }
+ - {title: "Snow Factory 冰淇淋", image: "logo10.jpg", url: "" }
+ - {title: "存在音樂", image: "logo11.png", url: "" }
 # Subscribe Block
 # subscribeImage: "subscribe.jpg"
 # subscribeTitle: "在此報名"
