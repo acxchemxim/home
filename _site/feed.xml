@@ -3,8 +3,8 @@
   <channel>
     <title>2023 農化 x 資管 x 化學 三系聯合宿營</title>
     <description>Sep. 01 ~ Sep. 03 | Join us!</description>
-    <link>http://localhost:4000/Whose_Party/</link>
-    <atom:link href="http://localhost:4000/Whose_Party/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000/home/</link>
+    <atom:link href="http://localhost:4000/home/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>選課指南</title>
@@ -36,8 +36,8 @@ the final missing parts to the biggest Google related event in Ukraine - &lt;a h
 &lt;p&gt;More details about speakers, DevFest Hackathon and Lviv will appear in subsequent posts, meantime like us on &lt;a href=&quot;https://facebook.com/GDGLviv&quot;&gt;Facebook&lt;/a&gt;, follow on &lt;a href=&quot;https://twitter.com/intent/user?screen_name=GDGLviv&quot;&gt;Twitter&lt;/a&gt;, add to circles in &lt;a href=&quot;https://plus.google.com/b/102444623953913144164&quot;&gt;Google+&lt;/a&gt; or subcribe to our &lt;a href=&quot;http://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;amp;id=ae0fb459fc&quot;&gt;mailing list&lt;/a&gt; and &lt;a href=&quot;http://devfest.gdg.org.ua/feed.xml&quot;&gt;RSS feed&lt;/a&gt; in order not to miss any cool stuff about festival.&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 Jul 2021 16:00:00 +0800</pubDate>
-        <link>http://localhost:4000/Whose_Party/course-lore</link>
-        <guid isPermaLink="true">http://localhost:4000/Whose_Party/course-lore</guid>
+        <link>http://localhost:4000/home/course-lore</link>
+        <guid isPermaLink="true">http://localhost:4000/home/course-lore</guid>
       </item>
     
       <item>
@@ -116,8 +116,8 @@ the final missing parts to the biggest Google related event in Ukraine - &lt;a h
 &lt;p&gt;Email organizers at &lt;a href=&quot;mailto:devfest@gdg.org.ua&quot;&gt;devfest@gdg.org.ua&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 21 Jul 2021 16:00:00 +0800</pubDate>
-        <link>http://localhost:4000/Whose_Party/college-lore</link>
-        <guid isPermaLink="true">http://localhost:4000/Whose_Party/college-lore</guid>
+        <link>http://localhost:4000/home/college-lore</link>
+        <guid isPermaLink="true">http://localhost:4000/home/college-lore</guid>
       </item>
     
   </channel>
