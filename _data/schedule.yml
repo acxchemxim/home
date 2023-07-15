@@ -9,19 +9,19 @@
       sessionIds: [001]
     }
     - {
-      startTime: "12:30",
+      startTime: "",
       sessionIds: [002]
     }
     - {
-    	startTime: "14:10",
+    	startTime: "",
     	sessionIds: [003]
     }
     - {
-      startTime: "17:20",
+      startTime: "",
       sessionIds: [501]
     }
     - {
-    	startTime: "19:00",
+    	startTime: "",
     	sessionIds: [011]
     }
 -
@@ -31,28 +31,28 @@
     - {title: "活動內容", color: "#7c2222"}
   timeslots:
     - {
-    	startTime: "08:00",
+    	startTime: "",
     	sessionIds: [101]
     }
     - {
-      startTime: "09:10",
+      startTime: "",
       sessionIds: [102]
     }
     - {
-    	startTime: "12:20",
+    	startTime: "",
     	sessionIds: [103]
     }
     - {
-      startTime: "14:00",
+      startTime: "",
     	sessionIds: [005],
       # invisible: true
     }
     - {
-    	startTime: "18:10",
+    	startTime: "",
     	sessionIds: [501]
     }
     - {
-    	startTime: "19:30",
+    	startTime: "",
     	sessionIds: [104]
     }
 -
@@ -62,22 +62,22 @@
     - {title: "活動內容", color: "#7c2222"}
   timeslots:
     - {
-    	startTime: "08:00",
+    	startTime: "",
     	sessionIds: [101]
     }
     - {
-      startTime: "09:10",
+      startTime: "",
       sessionIds: [006]
     }
     - {
-    	startTime: "12:20",
+    	startTime: "",
     	sessionIds: [007]
     }
     - {
-    	startTime: "16:00",
+    	startTime: "",
     	sessionIds: [105]
     }
     - {
-    	startTime: "17:00",
+    	startTime: "",
     	sessionIds: [106]
     }
