@@ -16,22 +16,6 @@
     - {name: "google-plus", link: "https://instagram.com/flrw_1113?igshid=MjEwN2IyYWYwYw=="}
 -
   id: 2
-  name: "Laurance "
-  surname: "林稚翔"
-  company: "資管系總召"
-  title: "<b>總召</b> ｜ 資管二"
-  modalTitle: "<b>總召<br></b>資管二"
-  bio: "希望大家在宿營能玩得開心！"
-  thumbnailUrl: 2_compressed.jpg
-  executive: true
-  vice: false
-  leader: false
-  dev: false
-  social:
-    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100026451723563&mibextid=LQQJ4d"}
-    - {name: "google-plus", link: "https://instagram.com/lch0410?igshid=OGQ5ZDc2ODk2ZA=="}
--
-  id: 3
   name: "Andrew "
   surname: "鄭棋軒"
   company: "化學系總召"
@@ -46,6 +30,22 @@
   social:
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100005122215142&mibextid=LQQJ4d"}
     - {name: "google-plus", link: "https://instagram.com/flight_1048576?igshid=MzRlODBiNWFlZA=="}
+-
+  id: 3
+  name: "Laurance "
+  surname: "林稚翔"
+  company: "資管系總召"
+  title: "<b>總召</b> ｜ 資管二"
+  modalTitle: "<b>總召<br></b>資管二"
+  bio: "希望大家在宿營能玩得開心！"
+  thumbnailUrl: 2_compressed.jpg
+  executive: true
+  vice: false
+  leader: false
+  dev: false
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100026451723563&mibextid=LQQJ4d"}
+    - {name: "google-plus", link: "https://instagram.com/lch0410?igshid=OGQ5ZDc2ODk2ZA=="}
 -
   id: 4
   name: "Kelly Xie "
@@ -64,6 +64,22 @@
      - {name: "google-plus", link: "https://instagram.com/ywenxie_?igshid=MzNlNGNkZWQ4Mg=="}
 -
   id: 5
+  name: "Jack Tsai "
+  surname: "蔡睿哲"
+  company: "化學系副召"
+  title: "<b>副召</b> ｜ 化學二"
+  modalTitle: "<b>副召</b><br>化學二"
+  bio: "討厭香菜，火鍋裡無法接受芋頭，咖哩不能接受和飯拌著吃，若你（妳）喜歡三者其中之一，請不要與我有往來。"
+  thumbnailUrl: 7_compressed.jpg
+  executive: true
+  vice: false
+  leader: false
+  dev: false
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100009161003346&mibextid=LQQJ4d"}
+    - {name: "google-plus", link: "https://instagram.com/jkboyeee_0923?igshid=MmIzYWVlNDQ5Yg=="}
+-
+  id: 6
   name: "Jaz "
   surname: "蔡炘誼"
   company: "資管系副召"
@@ -79,7 +95,7 @@
      - {name: "facebook", link: "https://www.facebook.com/jaztsai"}
      - {name: "google-plus", link: "https://www.instagram.com/_yi_163/"}
 -
-  id: 6
+  id: 7
   name: "Sophie Ku "
   surname: "古昭璿"
   company: "資管系副召"
@@ -94,22 +110,6 @@
   social:
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100006727273723&mibextid=LQQJ4d"}
     - {name: "google-plus", link: "https://instagram.com/_unirueiii_?igshid=OGQ5ZDc2ODk2ZA=="}
--
-  id: 7
-  name: "Jack Tsai "
-  surname: "蔡睿哲"
-  company: "化學系副召"
-  title: "<b>副召</b> ｜ 化學二"
-  modalTitle: "<b>副召</b><br>化學二"
-  bio: "討厭香菜，火鍋裡無法接受芋頭，咖哩不能接受和飯拌著吃，若你（妳）喜歡三者其中之一，請不要與我有往來。"
-  thumbnailUrl: 7_compressed.jpg
-  executive: true
-  vice: false
-  leader: false
-  dev: false
-  social:
-    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100009161003346&mibextid=LQQJ4d"}
-    - {name: "google-plus", link: "https://instagram.com/jkboyeee_0923?igshid=MmIzYWVlNDQ5Yg=="}
 -
   id: 8
   name: "Joyce "
@@ -127,22 +127,6 @@
     - {name: "", link: ""}
 -
   id: 9
-  name: "Sophie "
-  surname: "黃子維"
-  company: ""
-  title: "<b>活動長</b> ｜ 資管二"
-  modalTitle: "<b>活動長</b><br>資管二"
-  bio: "大家好我是資管系的活動長黃子維(˶‾᷄ ⁻̫ ‾᷅˵)希望大家宿營可以玩得開心"
-  thumbnailUrl: 9_compressed.jpg
-  executive: false
-  vice: false
-  leader: true
-  dev: false
-  social:
-    - {name: "facebook", link: "https://www.facebook.com/sophie.huang.0825?mibextid=LQQJ4d"}
-    - {name: "google-plus", link: "https://instagram.com/sophie.huang.0825"}
--
-  id: 10
   name: "Olaf "
   surname: "尤沐泉"
   company: ""
@@ -157,6 +141,22 @@
   social:
     - {name: "facebook", link: "https://www.facebook.com/FrozenPagurian?mibextid=LQQJ4d"}
     - {name: "google-plus", link: "https://instagram.com/eat_me_olaf?igshid=MzRlODBiNWFlZA=="}
+-
+  id: 10
+  name: "Sophie "
+  surname: "黃子維"
+  company: ""
+  title: "<b>活動長</b> ｜ 資管二"
+  modalTitle: "<b>活動長</b><br>資管二"
+  bio: "大家好我是資管系的活動長黃子維(˶‾᷄ ⁻̫ ‾᷅˵)希望大家宿營可以玩得開心"
+  thumbnailUrl: 9_compressed.jpg
+  executive: false
+  vice: false
+  leader: true
+  dev: false
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/sophie.huang.0825?mibextid=LQQJ4d"}
+    - {name: "google-plus", link: "https://instagram.com/sophie.huang.0825"}
 -
   id: 11
   name: "Mood "
@@ -175,22 +175,6 @@
     - {name: "google-plus", link: "https://instagram.com/filias_mood?igshid=NGExMmI2YTkyZg=="}
 -
   id: 12
-  name: "Shiquan "
-  surname: "劉士銓"
-  company: ""
-  title: "<b>隊輔長</b> ｜資管二"
-  modalTitle: "<b>隊輔長</b><br>資管二"
-  bio: '👊👊👊👊'
-  thumbnailUrl: 12_compressed.jpg
-  executive: false
-  vice: false
-  leader: true
-  dev: false
-  social:
-    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100009985636528&mibextid=LQQJ4d"}
-    - {name: "google-plus", link: "https://instagram.com/shiquan__r?igshid=OGQ5ZDc2ODk2ZA=="}
--
-  id: 13
   name: "Alan "
   surname: "萬閎"
   company: ""
@@ -205,6 +189,22 @@
   social:
     - {name: "facebook", link: "https://www.facebook.com/hung.wan.314?mibextid=LQQJ4d"}
     - {name: "google-plus", link: "https://instagram.com/wan___________?igshid=OGQ5ZDc2ODk2ZA=="}
+-
+  id: 13
+  name: "Shiquan "
+  surname: "劉士銓"
+  company: ""
+  title: "<b>隊輔長</b> ｜資管二"
+  modalTitle: "<b>隊輔長</b><br>資管二"
+  bio: '👊👊👊👊'
+  thumbnailUrl: 12_compressed.jpg
+  executive: false
+  vice: false
+  leader: true
+  dev: false
+  social:
+    - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100009985636528&mibextid=LQQJ4d"}
+    - {name: "google-plus", link: "https://instagram.com/shiquan__r?igshid=OGQ5ZDc2ODk2ZA=="}
 -
   id: 14
   name: "Oscar "

@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "2023 農化 x 資管 x 化學 三系聯合宿營"
+title: "2023 農化 x 化學 x 資管 三系聯合宿營"
 email: ""  # TODO: replace this
 description: "Sep. 01 ~ Sep. 03 | Join us!"
 baseurl: "/home"  # TODO: replace this
@@ -22,7 +22,7 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 # Organizer Info
 organizerName: "2023 acxchemxim"  # TODO: replace this
 organizerAlternateName: "2023 acxchemxim Camp"  # TODO: replace this
-organizerDescription: "2023 農化 x 資管 x 化學 三系聯合宿營"
+organizerDescription: "2023 農化 x 化學 x 資管 三系聯合宿營"
 organizerEmail: "acxchemxim@gmail.com" # TODO: replace this
 organizerLogo: "/img/favicons/favicon-2.png"
 organizerLink: "https://ntu.im/whoseparty"  # TODO: replace this
@@ -59,7 +59,7 @@ heroTitle: "農情蜜意的化，資想對你說"
 heroTitle2: "2023三系聯合宿營"
 eventDate: "Sep. 01 ~ Sep. 03"
 typeoutTextValues: ""
-typeoutFallback: "農業化學系x資訊管理學系x化學系"
+typeoutFallback: "農業化學系x化學系x資訊管理學系"
 heroButtons:
 #  - {permalink: "/news/", text: "了解我們"}
 #  - {permalink: "", text: "現在報名"}
@@ -69,8 +69,8 @@ aboutTitle: "參與科系"
 aboutImage: "night.png"
 aboutBlock:
  - {title: "農業化學系", image: "ntu_ac.jpg", text: "" }
- - {title: "資訊管理學系", image: "ntu_im.png", text: "" }
  - {title: "化學系", image: "ntu_chem.jpg", text: "" }
+ - {title: "資訊管理學系", image: "ntu_im.png", text: "" }
 
 # Statistic Block
 statisticBlockImage: "statistic1.jpg"
@@ -165,7 +165,7 @@ sponsorBlock_minor:
 ticketsImage: "green.jpg"
 ticketsTitle: " 在此報名"
 ticketsInfo: ""
-ticketReminderList: ["報名資格：全體台大農化、資管及化學系大一新生","活動日期：9/1～9/3","活動地點：三富休閒農場", "匯款資訊<br>帳戶：212-50-474258 <br>銀行：第一銀行(ATM代碼:007)", "請注意報名期限及繳費期限，<br>逾時不候！","宿營防疫規劃及其他資訊可參考FAQ，<br>也歡迎直接聯絡我們喔！"]
+ticketReminderList: ["報名資格：全體台大農化、化學及資管系大一新生","活動日期：9/1～9/3","活動地點：三富休閒農場", "匯款資訊<br>帳戶：212-50-474258 <br>銀行：第一銀行(ATM代碼:007)", "請注意報名期限及繳費期限，<br>逾時不候！","宿營防疫規劃及其他資訊可參考FAQ，<br>也歡迎直接聯絡我們喔！"]
 ticketsOffers:
  -
   name: "報名連結"
@@ -210,8 +210,8 @@ footerBlocks:
     links:
       - {permalink: "/sponsorsList", text: "完整贊助名單"}
       - {link: "https://www.ac.ntu.edu.tw", text: "台大農業化學系"}
-      - {link: "https://management.ntu.edu.tw/IM", text: "台大資訊管理學系"}
       - {link: "https://www.ch.ntu.edu.tw/Default.html", text: "台大化學系"}
+      - {link: "https://management.ntu.edu.tw/IM", text: "台大資訊管理學系"}
       - {link: "https://www.sanfufarm.com.tw/", text: "三富休閒農場"}
       # - {link: "http://gdg.org.ua", text: "點我進入贊助頁面"}
 
@@ -227,8 +227,8 @@ footerBlocks:
   - title: "聯絡資訊"
     links:
       - {text: "農業化學系窗口：吳思蒨 tel:0906266802"}
-      - {text: "資訊管理學系窗口：林稚翔 tel:0905496869"}
       - {text: "化學系窗口：鄭棋軒 tel:0983300215"}
+      - {text: "資訊管理學系窗口：林稚翔 tel:0905496869"}
 
   # - title: "重點專區"
     # links:

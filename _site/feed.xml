@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="gbk"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>2023 農化 x 資管 x 化學 三系聯合宿營</title>
+    <title>2023 農化 x 化學 x 資管 三系聯合宿營</title>
     <description>Sep. 01 ~ Sep. 03 | Join us!</description>
     <link>http://localhost:4000/home/</link>
     <atom:link href="http://localhost:4000/home/feed.xml" rel="self" type="application/rss+xml" />
