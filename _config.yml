@@ -30,9 +30,9 @@ organizerLink: "https://acxchemxim.github.io/home"
 # Head
 metaKeywords: ""
 twitterAccount: ""
-socialImageSrcGooglePlus: "/img/favicons/favicon-2.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/sprites/logo_1_1.png"
+socialImageSrcTwitter: "/img/sprites/logo_1_1.png"
+socialImageSrcFacebook: "/img/sprites/logo_1_1.png"
 
 # Documents
 # c4pUrl: "https://bit.ly/dfua-c4p"
