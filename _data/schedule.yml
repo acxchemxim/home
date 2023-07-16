@@ -2,7 +2,7 @@
   date: "2023-09-01"
   dateReadable: "Sep. 01"
   tracks:
-    - {title: "活動內容", color: "#7c2222"}
+    - {title: "活動內容", color: "#9e293b"}
   timeslots:
     - {
       startTime: "",
@@ -28,7 +28,7 @@
   date: "2023-09-02"
   dateReadable: "Sep. 02"
   tracks:
-    - {title: "活動內容", color: "#7c2222"}
+    - {title: "活動內容", color: "#9e293b"}
   timeslots:
     - {
     	startTime: "",
@@ -59,7 +59,7 @@
   date: "2023-09-03"
   dateReadable: "Sep. 03"
   tracks:
-    - {title: "活動內容", color: "#7c2222"}
+    - {title: "活動內容", color: "#9e293b"}
   timeslots:
     - {
     	startTime: "",
