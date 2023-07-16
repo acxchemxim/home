@@ -2,7 +2,7 @@
 layout: post
 title: 常見問題
 permalink: /faq/
-image: brook.jpg
+image: monochrome.jpg
 isStaticPost: true
 ---
 ##### 防疫規定及宿營防疫措施
