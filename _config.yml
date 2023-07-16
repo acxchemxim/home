@@ -11,21 +11,21 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
 title: "2023 農化 x 化學 x 資管 三系聯合宿營"
-email: ""  # TODO: replace this
+email: "acxchemxim@gmail.com"
 description: "Sep. 01 ~ Sep. 03 | Join us!"
-baseurl: "/home"  # TODO: replace this
+baseurl: "/home"
 url: ""
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "2023 acxchemxim"  # TODO: replace this
-organizerAlternateName: "2023 acxchemxim Camp"  # TODO: replace this
+organizerName: "2023 acxchemxim"
+organizerAlternateName: "2023 acxchemxim Camp"
 organizerDescription: "2023 農化 x 化學 x 資管 三系聯合宿營"
-organizerEmail: "acxchemxim@gmail.com" # TODO: replace this
+organizerEmail: "acxchemxim@gmail.com"
 organizerLogo: "/img/favicons/favicon-2.png"
-organizerLink: "https://ntu.im/whoseparty"  # TODO: replace this
+organizerLink: "https://acxchemxim.github.io/home"
 
 # Head
 metaKeywords: "whose party, 2021 whose party, event, 臺大, 宿營, 台大, 臺大護理 x 臺大資管 x 臺大物治聯合宿營, NTU, IM, PT, NUR, 國立台灣大學, 國立臺灣大學, 資管, 護理, 物治, 聯合宿營, 迎新宿營, 迎新, 資訊管理學系迎新, 資訊管理學系宿營, 護理學系宿營, 護理學系迎新, 物理治療學系宿營, 物理治療學系迎新"
@@ -174,7 +174,7 @@ ticketsOffers:
   priceCurrency: "NT$  "
   # ticketsNumber: "300"
   buyButtonLink: "https://forms.gle/VxGx2xHqoDMeGoU1A"
-  buyButtonText: "點我報名"
+  buyButtonText: "點我報名！"
   ticketContentList: ["早鳥優惠至 7/31 23:59止 <br> (原價 $4300(個人) / $4200(圑報))", "報名期限至 8/24 23:59 止", "繳費期限：<br>學測生早鳥優惠［7/18～7/31］/<br>分科生早鳥優惠［8/16～8/20］/<br>一般［～8/24］"]
   validFrom: "2023-07-18T09:00"
   validThrough: "2023-08-24T23:59"
