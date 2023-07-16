@@ -118,7 +118,7 @@ venueBigImage: "sanfufarm_1.jpg"
 venueSmallImage1: "sanfufarm_2.jpg"
 venueSmallImage2: "sanfufarm_3.jpg"
 venueSmallImage3: "sanfufarm_4.jpg"
-venueTitle: "三富休閒農場"
+venueTitle: "紫森林-三富休閒農場"
 venueFeatures: ["宜蘭縣冬山鄉新寮二路161巷88號","03 958 8690"]
 
 # Tweets Feed Block
@@ -165,7 +165,7 @@ sponsorBlock_minor:
 ticketsImage: "green.jpg"
 ticketsTitle: " 在此報名"
 ticketsInfo: ""
-ticketReminderList: ["報名資格：全體台大農化、化學及資管系大一新生","活動日期：9/1～9/3","活動地點：三富休閒農場", "匯款資訊<br>帳戶：212-50-474258 <br>銀行：第一銀行(ATM代碼:007)", "請注意報名期限及繳費期限，<br>逾時不候！","宿營防疫規劃及其他資訊可參考FAQ，<br>也歡迎直接聯絡我們喔！"]
+ticketReminderList: ["報名資格：全體臺大農化、化學及資管系大一新生","活動日期：9/1～9/3","活動地點：紫森林-三富休閒農場", "匯款資訊<br>帳戶：212-50-474258 <br>銀行：第一銀行(ATM代碼:007)", "請注意報名期限及繳費期限，<br>逾時不候！","宿營防疫規劃及其他資訊可參考FAQ，<br>也歡迎直接聯絡我們喔！"]
 ticketsOffers:
  -
   name: "報名連結"
@@ -209,10 +209,10 @@ footerBlocks:
   - title: "宿營夥伴"
     links:
       - {permalink: "/sponsorsList", text: "完整贊助名單"}
-      - {link: "https://www.ac.ntu.edu.tw", text: "台大農業化學系"}
-      - {link: "https://www.ch.ntu.edu.tw/Default.html", text: "台大化學系"}
-      - {link: "https://management.ntu.edu.tw/IM", text: "台大資訊管理學系"}
-      - {link: "https://www.sanfufarm.com.tw/", text: "三富休閒農場"}
+      - {link: "https://www.ac.ntu.edu.tw", text: "臺大農業化學系"}
+      - {link: "https://www.ch.ntu.edu.tw/Default.html", text: "臺大化學系"}
+      - {link: "https://management.ntu.edu.tw/IM", text: "臺大資訊管理學系"}
+      - {link: "https://www.sanfufarm.com.tw/", text: "紫森林-三富休閒農場"}
       # - {link: "http://gdg.org.ua", text: "點我進入贊助頁面"}
 
   - title: "常用連結"

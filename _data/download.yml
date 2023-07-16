@@ -19,15 +19,6 @@
 -
   id: 3
   name: ""
-  surname: "健康聲明切結書"
-  title: ""
-  thumbnailUrl: crystal.png
-  available: true
-  button:
-  - {link: "../assets/健康聲明切結書.pdf", text: "健康聲明切結書.pdf"}
--
-  id: 4
-  name: ""
   surname: "提前離營切結書"
   title: ""
   thumbnailUrl: crystal.png

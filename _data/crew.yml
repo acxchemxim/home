@@ -1,10 +1,10 @@
 -
   id: 1
-  name: "Flora Wu "
+  name: "Flora "
   surname: "吳思蒨"
   company: "農化系總召"
   title: "<b>總召</b> ｜ 農化二"
-  modalTitle: "<b>總召<br>Developer<br></b>農化二"
+  modalTitle: "<b>總召<br></b>農化二"
   bio: "我是吳思蒨，喜歡攝影，最近染了紅髮⋯期待相見：）"
   thumbnailUrl: 1_compressed.jpg
   executive: true
@@ -48,7 +48,7 @@
     - {name: "google-plus", link: "https://instagram.com/lch0410?igshid=OGQ5ZDc2ODk2ZA=="}
 -
   id: 4
-  name: "Kelly Xie "
+  name: "Kelly "
   surname: "謝詠雯"
   company: "農化系副召"
   title: "<b>副召</b> ｜ 農化二"
@@ -64,7 +64,7 @@
      - {name: "google-plus", link: "https://instagram.com/ywenxie_?igshid=MzNlNGNkZWQ4Mg=="}
 -
   id: 5
-  name: "Jack Tsai "
+  name: "Jack "
   surname: "蔡睿哲"
   company: "化學系副召"
   title: "<b>副召</b> ｜ 化學二"
@@ -96,7 +96,7 @@
      - {name: "google-plus", link: "https://www.instagram.com/_yi_163/"}
 -
   id: 7
-  name: "Sophie Ku "
+  name: "Sophie "
   surname: "古昭璿"
   company: "資管系副召"
   title: "<b>副召</b> ｜ 資管二"
@@ -222,7 +222,7 @@
     - {name: "facebook", link: "https://www.facebook.com/profile.php?id=100015397808125&mibextid=ZbWKwL"}
 -
   id: 15
-  name: "LIU,QIAN-YI "
+  name: "QIAN-YI "
   surname: "劉芊儀"
   company: ""
   title: "<b>公關長</b> ｜ 資管二"
@@ -255,11 +255,11 @@
     - {name: "facebook", link: ""}
 -
   id: 17
-  name: "LUO, WEI-YU "
+  name: "WEI-YU "
   surname: "駱威宇"
   company: ""
-  title: "<b>攝影部長</b> ｜ 化學二"
-  modalTitle: "<b>攝影部長</b><br>化學二"
+  title: "<b>攝影長</b> ｜ 化學二"
+  modalTitle: "<b>攝影長</b><br>化學二"
   bio: ''
   thumbnailUrl: 18_compressed.jpg
   executive: false
