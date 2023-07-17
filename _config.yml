@@ -179,7 +179,7 @@ ticketsOffers:
   validFrom: "2023-07-18T09:00"
   validThrough: "2023-08-24T23:59"
   soldOut: false
-  disabled: true  # TODO: change it
+  disabled: false
   soldOutText: "--報名已截止--"
 
 #  -
