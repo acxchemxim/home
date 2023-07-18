@@ -175,7 +175,7 @@ ticketsOffers:
   # ticketsNumber: "300"
   buyButtonLink: "https://forms.gle/VxGx2xHqoDMeGoU1A"
   buyButtonText: "點我報名！"
-  ticketContentList: ["早鳥優惠至 7/31 23:59止 <br> (原價 $4300(個人) / $4200(圑報))","報名期限至 8/24 23:59 止","繳費期限：<br>學測生早鳥優惠［7/18～7/31］/<br>分科生早鳥優惠［8/16～8/20］/<br>一般［～8/24］","繳費確認表單：<br>https://forms.gle/jRroHw6BZMdtwj7WA"]
+  ticketContentList: ["早鳥優惠至 7/31 23:59止 <br> (原價 $4300(個人) / $4200(圑報))","報名期限至 8/24 23:59 止","繳費期限：<br>早鳥優惠［7/18～7/31］/<br>分科生早鳥優惠［8/16～8/20］/<br>一般［～8/24］","繳費確認表單：<br>https://forms.gle/jRroHw6BZMdtwj7WA"]
   validFrom: "2023-07-18T09:00"
   validThrough: "2023-08-24T23:59"
   soldOut: false
